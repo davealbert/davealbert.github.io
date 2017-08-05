@@ -7,10 +7,11 @@ Title: About me
 I'm originally from West Virginia in the U.S. I currently live in Dublin, 
 Ireland.  I'm the CTO of https://One15.co a company I co-founded.  We are 
 currently focused on https://medit.online a mobile platform related to knowledge 
-sharing for health care providers.
+sharing for health care providers.  We are part of the NDRC accelerator 
+programme for the summer cohort 2017.
 
 
-I've been in love with technology, computers, writting code since I was 9 years
+I've been in love with technology, computers, writing code since I was 9 years
 old when my dad brought home a Compaq luggable computer. 
 
 I miss the days of BBSs and text files passed around over usenet or anonymous 
