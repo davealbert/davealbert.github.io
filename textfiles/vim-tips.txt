@@ -27,6 +27,17 @@ Window (Vertical Split)
   - 5 columns: `5^w <` OR `5^w >`
   - make them equal: `^w =`
 
+
+Column Guide
+------------
+
+To make sure your code/text stays within a certain width:
+
+- Set guide column: `:set colorcolumn=81<cr>
+- Set guide colour; `:highlight ColorColumn ctermbg=59<cr>`
+
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
