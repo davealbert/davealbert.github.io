@@ -1,7 +1,18 @@
-**********************************************************************
-Hi, You can find out more about me at: https://dave-albert.com
-**********************************************************************
+********************************************************************************
+By: Dave Albert
+Date: Started 2017-08-04
+Title: What is this? FAQ, WTF
+********************************************************************************
 
+
+INTRODUCTION
+============
+
+Hi, You can find out more about me at: https://dave-albert.com
+
+
+FAQ
+===
 
 * WTF is this about? 
   - Well I miss the old days of textfiles and I figured there are 3 or 
@@ -15,6 +26,10 @@ Hi, You can find out more about me at: https://dave-albert.com
 * Seriously gramps what?
 - I'm not that old now get off my lawn! Back in my day we had respect...
   No, no we didn't :P
+
+
+* What is this written in?
+  - Why vim of course, as pure text .txt
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
