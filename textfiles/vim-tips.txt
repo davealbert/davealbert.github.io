@@ -34,8 +34,9 @@ Column Guide
 To make sure your code/text stays within a certain width:
 
 - Set guide column: `:set colorcolumn=81<cr>
-- Set guide colour; `:highlight ColorColumn ctermbg=59<cr>`
+- Set guide colour: `:highlight ColorColumn ctermbg=59<cr>`
 
+- Jump to column 80: `80|`
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
