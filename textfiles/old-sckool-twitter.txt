@@ -13,12 +13,14 @@ really for anyone, just myself. If you en up hear I'd love to hear about how
 that happend.  Email or Twitter (see footer)
 
 
-
 "Tweets"
 ========
+
+Tue  8 Aug 2017 13:41:02 IST
+- fixed minor spacing issue in old-sckool-twitter.txt :P
+
 Tue  8 Aug 2017 13:38:34 IST
 - My back is tight today, looking forward to hot yoga!
-========
 
 Tue  8 Aug 2017 13:03:51 IST
 - Time for refocus, and just finish a passing test. Nice timing :)
@@ -35,9 +37,6 @@ Tue  8 Aug 2017 11:33:54 IST
 
  Tue  8 Aug 2017 11:30:42 IST
 - First "Tweet" like some wierdo in a text file.
-
-
-
 
 
 
