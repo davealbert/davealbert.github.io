@@ -16,6 +16,9 @@ that happend.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Tue  8 Aug 2017 14:27:51 IST
+- One more endpoint until lists for the API for Medit alpha is done!
+
 Tue  8 Aug 2017 13:41:02 IST
 - fixed minor spacing issue in old-sckool-twitter.txt :P
 
