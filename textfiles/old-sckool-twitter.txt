@@ -39,8 +39,23 @@ How
 
 The script/function I use to avoid having to write this manually.
 
-... Coming Soon...
 
+~ $ type -f tweet
+tweet () {
+        FILENAME=old-sckool-twitter.txt
+        TMPFILE=tweet.tmp
+        LINENUM=18
+        pushd ~/code/davealbert.github.io/textfiles
+        head -n $LINENUM $FILENAME > $TMPFILE
+        date >> $TMPFILE
+        echo "- $*" >> $TMPFILE
+        tail -n +$LINENUM $FILENAME >> $TMPFILE
+        cat $TMPFILE > $FILENAME
+        git add $FILENAME
+        git commit -m "OSK-Tweet: $*"
+        git push
+        rm $TMPFILE
+}
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
