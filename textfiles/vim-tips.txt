@@ -39,6 +39,14 @@ To make sure your code/text stays within a certain width:
 - Jump to column 80: `80|`
 
 
+Spelling
+--------
+
+Start spell check: `:set spell<cr>`
+Next misspelling: `]s`
+Previous misspelling: `[s`
+Show suggestion: `z=`
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com

@@ -7,10 +7,10 @@ Title: Old Skool Twitter
 About:
 ======
 
-For no reason at all, I though I'd do a strange thing and basically do my 
+For no reason at all, I thought I'd do a strange thing and basically do my 
 twitter feed as a text file. I don't know why, I'm just not right.  It's not 
 really for anyone, just myself. If you en up hear I'd love to hear about how
-that happend.  Email or Twitter (see footer)
+that happened.  Email or Twitter (see footer)
 
 
 "Tweets"
@@ -23,7 +23,7 @@ Tue  8 Aug 2017 14:27:51 IST
 - One more endpoint until lists for the API for Medit alpha is done!
 
 Tue  8 Aug 2017 13:41:02 IST
-- fixed minor spacing issue in old-sckool-twitter.txt :P
+- fixed minor spacing issue in old-skool-twitter.txt :P
 
 Tue  8 Aug 2017 13:38:34 IST
 - My back is tight today, looking forward to hot yoga!
@@ -42,7 +42,7 @@ Tue  8 Aug 2017 11:33:54 IST
  up" 
 
  Tue  8 Aug 2017 11:30:42 IST
-- First "Tweet" like some wierdo in a text file.
+ - First "Tweet" like some weirdo in a text file.
 
 
 
@@ -54,7 +54,7 @@ The script/function I use to avoid having to write this manually.
 
 ~ $ type -f tweet
 tweet () {
-        FILENAME=old-sckool-twitter.txt
+        FILENAME=old-skool-twitter.txt
         TMPFILE=tweet.tmp
         LINENUM=18
         pushd ~/code/davealbert.github.io/textfiles
