@@ -65,4 +65,5 @@ around. But the key is to automate as much as possible.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -7,9 +7,10 @@ Title: Old Skool Twitter
 About:
 ======
 
-For no reason at all, I though I'd do a strange thing and basically do my i
+For no reason at all, I though I'd do a strange thing and basically do my 
 twitter feed as a text file. I don't know why, I'm just not right.  It's not 
-really for anyone, just myself.
+really for anyone, just myself. If you en up hear I'd love to hear about how
+that happend.  Email or Twitter (see footer)
 
 
 
@@ -63,4 +64,5 @@ tweet () {
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

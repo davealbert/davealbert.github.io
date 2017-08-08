@@ -42,4 +42,5 @@ To make sure your code/text stays within a certain width:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

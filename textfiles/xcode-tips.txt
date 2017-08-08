@@ -33,4 +33,5 @@ Unfold all blocks: `<cmd><alt><shift> >`
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
