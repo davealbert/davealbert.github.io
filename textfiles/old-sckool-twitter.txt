@@ -16,6 +16,9 @@ really for anyone, just myself.
 "Tweets"
 ========
 
+Tue  8 Aug 2017 13:03:51 IST
+- Time for refocus, and just finish a passing test. Nice timing :)
+
 Tue  8 Aug 2017 12:16:17 IST
 - Lots of progress on the lists for Medit today.
 
