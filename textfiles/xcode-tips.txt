@@ -30,6 +30,13 @@ Unfold all blocks: `<cmd><alt><shift> >`
 
 
 
+Documentation
+=============
+
+Just above the method signature: `<cmd><alt>/
+  
+
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Dave
   dave (dot) albert (at) gmail (dot) com
