@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Wed  9 Aug 2017 10:33:16 IST
+- Good meeting re: design.  Solves a specific problem we had.
+
 Wed  9 Aug 2017 05:27:39 IST
 - Let's get going, meeting this morning then hopefully code all day
 
