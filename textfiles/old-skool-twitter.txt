@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Wed  9 Aug 2017 15:48:51 IST
+- Well there you go, one step forward 2 steps back :/ #StartUpRollerCoaster ...
+
 Wed  9 Aug 2017 14:43:00 IST
 - Major breakthrough on the current #nodejs API code. Nothing to complicated, just finally having bits come together. #CTOlife #Startup
 
