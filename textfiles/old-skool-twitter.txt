@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Thu 10 Aug 2017 15:24:40 IST
+- Several production hosts up in AWS now, sad to start the move away from @digitalocean, but can't pass up free credits for our #startup.
+
 Thu 10 Aug 2017 08:01:08 IST
 - Today is another day, bit of a late start this AM, out too late for me at a very good #DevOps meetup. Scaling with AWS gave me some ideas
 
