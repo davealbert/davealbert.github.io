@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Fri 11 Aug 2017 09:45:52 IST
+- I don't considered myself an iptables wizard, but pretty much knew my way around. #AWS #VPC is sooo much easier! #linux #security
+
 Thu 10 Aug 2017 15:24:40 IST
 - Several production hosts up in AWS now, sad to start the move away from @digitalocean, but can't pass up free credits for our #startup.
 
