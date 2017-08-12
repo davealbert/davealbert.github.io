@@ -30,7 +30,7 @@ for root, dirs, files in walk(".", topdown=False):
         if name != "googlef48735c95ae21f14.html" and (name.find(".txt") >=0 or name.find(".html") >= 0):
             string = "{}/{}/{}".format(BASEURL, root, name)
             t = localtime(stat(root + "/" + name).st_mtime)
-            date = "{}-{}-{}T{}:{}:{}+00:00".format(t.tm_year, t.tm_mon, t.tm_mday, t.tm_hour, t.tm_min, t.tm_sec)
+            date = "{:02d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}+00:00".format(t.tm_year, t.tm_mon, t.tm_mday, t.tm_hour, t.tm_min, t.tm_sec)
 
             print "<url>"
             print "  <loc>{}</loc>".format(string.replace("./", ""))
