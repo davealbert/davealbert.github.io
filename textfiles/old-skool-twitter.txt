@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Sat 12 Aug 2017 05:13:25 IST
+- I've said it before and I'll say it again, if you spend any time in the terminal, use tmux! #bash #linux #mac
+
 Fri 11 Aug 2017 09:45:52 IST
 - I don't considered myself an iptables wizard, but pretty much knew my way around. #AWS #VPC is sooo much easier! #linux #security
 
