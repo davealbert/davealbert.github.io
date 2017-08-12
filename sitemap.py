@@ -6,7 +6,7 @@ from time import localtime
 BASEURL = "https://davealbert.github.io"
 
 now = localtime()
-nowstring = "{}-{}-{}T{}:{}:{}+00:00".format(now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec)
+nowstring = "{:02d}-{:02d}-{:02d}T{:02d}:{:02d}:{:02d}+00:00".format(now.tm_year, now.tm_mon, now.tm_mday, now.tm_hour, now.tm_min, now.tm_sec)
 
 
 print '''<?xml version="1.0" encoding="UTF-8"?>
