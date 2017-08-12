@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Sat 12 Aug 2017 14:13:39 IST
+- Well ffs if you aren't using iptables, and using VPC don't apply your iptables with ansible :( #PulledAHomer #Ansible #AWS #linux
+
 Sat 12 Aug 2017 09:01:38 IST
 - bollox bollox bollox, suddenly can't connect from docker container to different ec instance :( #WonderWhatIDidWrong
 
