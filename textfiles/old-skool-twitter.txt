@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Thu 14 Sep 2017 15:55:53 IST
+- It's the little things in life that make me happy. Found a nice solution for moving backups around my hosts with #AWS #S3 :) 
+
 Mon 28 Aug 2017 17:50:16 IST
 - FFS iTunes why are you so needy. Always poping up in I plug in my phone or press play! #PissOffUntilISummonYou #OverreactionMuch :P
 
