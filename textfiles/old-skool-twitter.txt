@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Tue 26 Sep 2017 15:45:39 IST
+- Great #bash #shellscript tool to check your syntax https://www.shellcheck.net/ 
+
 Thu 14 Sep 2017 15:55:53 IST
 - It's the little things in life that make me happy. Found a nice solution for moving backups around my hosts with #AWS #S3 :) 
 
