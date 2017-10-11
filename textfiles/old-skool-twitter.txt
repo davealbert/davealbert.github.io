@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Wed 11 Oct 2017 07:40:33 IST
+- Arr, fingers please remember if you are trying to use git or docker. 'git push my-docker-image' is NOT going to work.
+
 Wed 23 Aug 2017 15:28:30 IST
 - arrrg, a MacBook Air is not the best dev machine. Way too much compile/build/processing time :( #TooSlow
 
