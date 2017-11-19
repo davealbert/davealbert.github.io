@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Sun 19 Nov 2017 06:45:39 GMT
+- printf is superior to echo, why do I not us it more? #bash #linux #mac
+
 Tue 26 Sep 2017 15:45:39 IST
 - Great #bash #shellscript tool to check your syntax https://www.shellcheck.net/ 
 
