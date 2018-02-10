@@ -16,6 +16,21 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Thu 23 Nov 2017 11:13:56 GMT
+- My goodness my iPhone 6 has garbage battery life since 'downgrading' to #iOS 11 #wtf @apple ? I used to get a day now I get 3 hours. Time to move to #android ?
+
+Sun 19 Nov 2017 06:45:39 GMT
+- printf is superior to echo, why do I not us it more? #bash #linux #mac
+
+Tue 26 Sep 2017 15:45:39 IST
+- Great #bash #shellscript tool to check your syntax https://www.shellcheck.net/ 
+
+Thu 14 Sep 2017 15:55:53 IST
+- It's the little things in life that make me happy. Found a nice solution for moving backups around my hosts with #AWS #S3 :) 
+
+Mon 28 Aug 2017 17:50:16 IST
+- FFS iTunes why are you so needy. Always poping up in I plug in my phone or press play! #PissOffUntilISummonYou #OverreactionMuch :P
+
 Wed 11 Oct 2017 07:40:33 IST
 - Arr, fingers please remember if you are trying to use git or docker. 'git push my-docker-image' is NOT going to work.
 
