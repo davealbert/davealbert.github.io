@@ -16,7 +16,9 @@ My company site starts at: [https://one15.co](https://one15.co){:target="_blank"
 
 My old school [textfiles](/textfiles/)
 
-Visits to this site: <span style="font-weight: bold;" id="counter">???</span> -- <i>90's stlye</i> :P <i>(built with an AWS Lambda)
+What I'm up to [Now](/now)
+
+Visits to this page: <span style="font-weight: bold;" id="counter">???</span> -- <i>90's stlye</i> :P <i>(built with an AWS Lambda)
 
 ---
 
