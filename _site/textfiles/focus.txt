@@ -1,0 +1,57 @@
+********************************************************************************
+By: Dave Albert
+Date: Started 2017-08-08
+Title: Focus 
+********************************************************************************
+
+I find deep focus helps to move my work forward faster.  A simple tool I use for 
+that is the following shell function.  I use something like the pomodoro 
+technique where you work without interruption for 25 minutes then take a break 
+for a couple minutes That's when I write these things ;).  
+
+I also set my Mac to "Do Not Disturb" mode, you can set this by scrolling up in
+the notification tray (top right of screen) using the toggle button.
+
+
+~ $ type -f focus
+function focus {
+    clear
+    cat ~/focus.txt
+    input="x"                                                                           
+    if [[ "x$1" == "x" ]]
+    then
+        TIME=1500
+    else
+        TIME=$(( $1 * 60 ))
+    fi
+    for I in {1..$TIME}
+    do
+       if [[ $input != "x" ]]
+       then
+          clear
+          cat ~/focus.txt
+          echo $I of $TIME
+          input="x"
+       fi
+       read -t 1 input #Any input will display status
+    done
+    say aaaaaaaaaaaaaaaaaaaaaaaaaa
+    say times up. take a minute. ree focus.
+}
+
+
+~ $ cat ~/focus.txt
+ _______  _______  _______           _______ 
+(  ____ \(  ___  )(  ____ \|\     /|(  ____ \
+| (    \/| (   ) || (    \/| )   ( || (    \/
+| (__    | |   | || |      | |   | || (_____ 
+|  __)   | |   | || |      | |   | |(_____  )
+| (      | |   | || |      | |   | |      ) |
+| )      | (___) || (____/\| (___) |/\____) |
+|/       (_______)(_______/(_______)\_______)
+                                             
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Dave
+  dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

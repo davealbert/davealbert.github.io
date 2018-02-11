@@ -1,0 +1,54 @@
+********************************************************************************
+By: Dave Albert
+Date: Started 2017-08-05
+Title: Vim tips, tricks, and references
+********************************************************************************
+
+WHAT?
+=====
+
+Just documenting the things about vim I want to remember, find interesting or 
+want to remember myself.
+
+
+Tips
+====
+
+
+
+Window (Vertical Split) 
+-----------------------
+
+- Help for windows: `:h^w<cr>`
+- Create one: `:vsplit<cr>`
+- Close a window: `^wc`
+- Resize a vertical window:
+  - 1 column: `^w <` OR `^w >`
+  - 5 columns: `5^w <` OR `5^w >`
+  - make them equal: `^w =`
+
+
+Column Guide
+------------
+
+To make sure your code/text stays within a certain width:
+
+- Set guide column: `:set colorcolumn=81<cr>
+- Set guide colour: `:highlight ColorColumn ctermbg=59<cr>`
+
+- Jump to column 80: `80|`
+
+
+Spelling
+--------
+
+Start spell check: `:set spell<cr>`
+Next misspelling: `]s`
+Previous misspelling: `[s`
+Show suggestion: `z=`
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Dave
+  dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

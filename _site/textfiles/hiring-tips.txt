@@ -1,0 +1,61 @@
+********************************************************************************
+By: Dave Albert
+Date: Started 2017-08-05
+Title: Tips on hiring programmers
+********************************************************************************
+
+
+Thought I'd share a few tips I've found helpful when hiring.
+
+
+What I Do
+=========
+
+I've spent loads of time in the past talking to candidates, and that doesn't
+really let you know how well they code.  Instead my new approach is to spend 
+about 15 to 20 minutes talking and that gives me an idea if they are a fit at 
+all.  Communication, initial attitude, experience type, etc.  Then I give them a
+simple project (see below) that I watch as they code.  I make sure to let them
+know that this is a simple project, but to write it exactly like they would a
+production application.
+
+
+Example Project
+===============
+
+For an iOS developer write me an iOS app like you would for production that:
+
+* Has 3 input fields for numbers from a user
+* Has 1 display field
+* The user can choose to add or multiply the numbers together
+* Feel free to ask as many questions as you need
+
+
+What I Look For
+===============
+
+* Do they ask questions
+* Are they good questions
+* Is the business logic in a separate class
+* With 3 fields, did they use an array or three separate variables
+* Tests? Write them or mention them?
+* How much reuse is there in the ViewController (or room for)
+
+
+
+Wrap Up
+=======
+
+This has given me so much more insight into if they can write good code than
+hours of discussions. You still want more than this, but I find it more useful
+than FizzBuzz as they can Google that if you're not watching.  Also building
+apps has a lot more mundane diligence than mathematical tricks like you might
+find on project Euler in my experience.
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Dave
+  dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

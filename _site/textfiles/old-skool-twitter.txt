@@ -1,0 +1,145 @@
+********************************************************************************
+By: Dave Albert
+Date: Started 2017-08-08
+Title: Old Skool Twitter
+********************************************************************************
+
+About:
+======
+
+For no reason at all, I thought I'd do a strange thing and basically do my 
+twitter feed as a text file. I don't know why, I'm just not right.  It's not 
+really for anyone, just myself. If you en up hear I'd love to hear about how
+that happened.  Email or Twitter (see footer)
+
+
+"Tweets"
+========
+
+Thu 23 Nov 2017 11:13:56 GMT
+- My goodness my iPhone 6 has garbage battery life since 'downgrading' to #iOS 11 #wtf @apple ? I used to get a day now I get 3 hours. Time to move to #android ?
+
+Sun 19 Nov 2017 06:45:39 GMT
+- printf is superior to echo, why do I not us it more? #bash #linux #mac
+
+Tue 26 Sep 2017 15:45:39 IST
+- Great #bash #shellscript tool to check your syntax https://www.shellcheck.net/ 
+
+Thu 14 Sep 2017 15:55:53 IST
+- It's the little things in life that make me happy. Found a nice solution for moving backups around my hosts with #AWS #S3 :) 
+
+Mon 28 Aug 2017 17:50:16 IST
+- FFS iTunes why are you so needy. Always poping up in I plug in my phone or press play! #PissOffUntilISummonYou #OverreactionMuch :P
+
+Wed 11 Oct 2017 07:40:33 IST
+- Arr, fingers please remember if you are trying to use git or docker. 'git push my-docker-image' is NOT going to work.
+
+Wed 23 Aug 2017 15:28:30 IST
+- arrrg, a MacBook Air is not the best dev machine. Way too much compile/build/processing time :( #TooSlow
+
+Wed 23 Aug 2017 14:00:17 IST
+- Shaving all the yaks today. :| #TooManyYaks
+
+Fri 18 Aug 2017 15:36:47 IST
+- jeez, everything takes longer than it should! #HowToGetMoreDone
+
+Sat 12 Aug 2017 14:13:39 IST
+- Well ffs if you aren't using iptables, and using VPC don't apply your iptables with ansible :( #PulledAHomer #Ansible #AWS #linux
+
+Sat 12 Aug 2017 09:01:38 IST
+- bollox bollox bollox, suddenly can't connect from docker container to different ec instance :( #WonderWhatIDidWrong
+
+Sat 12 Aug 2017 05:13:25 IST
+- I've said it before and I'll say it again, if you spend any time in the terminal, use tmux! #bash #linux #mac
+
+Fri 11 Aug 2017 09:45:52 IST
+- I don't considered myself an iptables wizard, but pretty much knew my way around. #AWS #VPC is sooo much easier! #linux #security
+
+Thu 10 Aug 2017 15:24:40 IST
+- Several production hosts up in AWS now, sad to start the move away from @digitalocean, but can't pass up free credits for our #startup.
+
+Thu 10 Aug 2017 08:01:08 IST
+- Today is another day, bit of a late start this AM, out too late for me at a very good #DevOps meetup. Scaling with AWS gave me some ideas
+
+Wed  9 Aug 2017 15:48:51 IST
+- Well there you go, one step forward 2 steps back :/ #StartUpRollerCoaster ...
+
+Wed  9 Aug 2017 14:43:00 IST
+- Major breakthrough on the current #nodejs API code. Nothing to complicated, just finally having bits come together. #CTOlife #Startup
+
+Wed  9 Aug 2017 12:14:09 IST
+- Looking forward the the Dublin #DevOps meetup tonight. Finding out how @slack do #databases.
+
+Wed  9 Aug 2017 10:33:16 IST
+- Good meeting re: design.  Solves a specific problem we had.
+
+Wed  9 Aug 2017 05:27:39 IST
+- Let's get going, meeting this morning then hopefully code all day
+
+Tue  8 Aug 2017 22:02:47 IST
+- Hot yoga always makes my body feel better!
+
+Tue  8 Aug 2017 18:59:02 IST
+- Silly me, I actually ended up doing another hour.  When you're a co-founder, there's always more you can do.  ;) 
+
+Tue  8 Aug 2017 17:06:11 IST
+- 12 hours is all the work I can handle today
+
+Tue  8 Aug 2017 16:06:39 IST
+- Seems no matter how many hours I work there's never enough time to catch up. :(
+
+Tue  8 Aug 2017 14:27:51 IST
+- One more endpoint until lists for the API for Medit alpha is done!
+
+Tue  8 Aug 2017 13:41:02 IST
+- fixed minor spacing issue in old-skool-twitter.txt :P
+
+Tue  8 Aug 2017 13:38:34 IST
+- My back is tight today, looking forward to hot yoga!
+
+Tue  8 Aug 2017 13:03:51 IST
+- Time for refocus, and just finish a passing test. Nice timing :)
+
+Tue  8 Aug 2017 12:16:17 IST
+- Lots of progress on the lists for Medit today.
+
+Tue  8 Aug 2017 12:12:41 IST
+- now I think we have it
+
+Tue  8 Aug 2017 11:33:54 IST
+- https://open.spotify.com/track/7wIIyXUVvcNOKTSXlNIwGg "This shit will fuck you 
+ up" 
+
+ Tue  8 Aug 2017 11:30:42 IST
+ - First "Tweet" like some weirdo in a text file.
+
+
+
+How
+===
+
+The script/function I use to avoid having to write this manually.
+
+
+~ $ type -f tweet
+tweet () {
+        FILENAME=old-skool-twitter.txt
+        TMPFILE=tweet.tmp
+        LINENUM=18
+        pushd ~/code/davealbert.github.io/textfiles
+        head -n $LINENUM $FILENAME > $TMPFILE
+        date >> $TMPFILE
+        echo "- $*" >> $TMPFILE
+        tail -n +$LINENUM $FILENAME >> $TMPFILE
+        cat $TMPFILE > $FILENAME
+        git add $FILENAME
+        git commit -m "OSK-Tweet: $*"
+        git push
+        rm $TMPFILE
+}
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Dave
+  dave (dot) albert (at) gmail (dot) com
+  [twitter] @dave_albert
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
