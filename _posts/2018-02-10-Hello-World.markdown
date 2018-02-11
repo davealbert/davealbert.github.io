@@ -11,4 +11,6 @@ Thanks to <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll
 
 ---
 
-Well I've added a littlt more here today (Sunday the 11th) but I haven't decided if I'll move the other posts, or more likely start fresh since most of my posts have either been reposted to LinkedIn and/or Medium.
+Well I've added a little more here today (Sunday the 11th) but I haven't decided if I'll move the other posts, or more likely start fresh since most of my posts have either been reposted to LinkedIn and/or Medium.
+
+If you are curious you can see the code on [GitHub](https://github.com/davealbert/davealbert.github.io){:target="_blank :target="_blank"}. I can't say it's impressive, but if you are just looking in to jekyll it might be worth a look.
