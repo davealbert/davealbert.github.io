@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Please bare with me while updating the site to a new platform, it's not a major priority.  I'm mostly just playing with Jekyll when I have a couple minutes at a time.  It's as more a learning thing as a real project, but I plan for this to be my main site in the long run.
+Please bear with me while updating the site to a new platform, it's not a major priority.  I'm mostly just playing with Jekyll when I have a couple minutes at a time.  It's as more a learning thing as a real project, but I plan for this to be my main site in the long run.
 
 If you want more of me you can find me on the following platforms:
 
