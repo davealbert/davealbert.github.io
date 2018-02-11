@@ -25,7 +25,7 @@ github_username:  davealbert
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: minima
+# theme: minima
 sass:
   sass_dir: _sass
 include: ['_pages']
