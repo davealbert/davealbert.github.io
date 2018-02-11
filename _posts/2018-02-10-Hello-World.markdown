@@ -5,4 +5,10 @@ date:   2018-02-10 23:59:49 +0000
 categories: jekyll update
 ---
 
-Thanks to <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/" target="_blank">this post</a> I was able to understand how to move from Wordpress (which had a mysql error by the way) in one evening while lying in bed ... I should be sleeping now really.
+![jekyll](/images/posts/jekyll-logo-light-transparent.png){:class="img-max400"}
+
+Thanks to <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/" target="_blank">this post</a> I was able to understand how to move from Wordpress (which had a mysql error by the way) to [Jekyll on Github Pages](https://jekyllrb.com/){:target="_blank"} in one evening while lying in bed ... I should be sleeping now really.
+
+---
+
+Well I've added a littlt more here today (Sunday the 11th) but I haven't decided if I'll move the other posts, or more likely start fresh since most of my posts have either been reposted to LinkedIn and/or Medium.
