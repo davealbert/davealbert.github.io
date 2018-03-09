@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Fri  9 Mar 2018 08:04:35 GMT
+- Well don't I feel silly! I've been having problems not being able to run my Tinc VPN from a location ... I'm already using ssh ProxyCommand for something else #derpderp
+
 Thu 23 Nov 2017 11:13:56 GMT
 - My goodness my iPhone 6 has garbage battery life since 'downgrading' to #iOS 11 #wtf @apple ? I used to get a day now I get 3 hours. Time to move to #android ?
 
