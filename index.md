@@ -1,5 +1,6 @@
 ---
 layout: default
+showcount: true
 ---
 
 
@@ -26,5 +27,3 @@ Visits to this page: <span style="font-weight: bold;" id="counter">???</span> --
 {% include blog-feed.html %}
 </div>
 
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="./main.js"></script>

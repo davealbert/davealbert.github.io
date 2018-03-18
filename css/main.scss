@@ -27,3 +27,14 @@ body {
 .img-20em {
     height: 20em;
 }
+
+
+@media screen and (max-width:600px) {
+    .trigger-hide {
+        display: none;
+    }
+
+    .menu-icon {
+        cursor: pointer;
+    }
+}
