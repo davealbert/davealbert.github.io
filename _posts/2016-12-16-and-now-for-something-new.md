@@ -2,7 +2,7 @@
 layout: post
 title:  "And now for something new..."
 date:   2016-12-16 23:59:49 +0000
-categories: jekyll update
+categories: startup
 ---
 
 ![Starting a new buisness](/images/posts/something-new.jpg){:class="img-max400"}
@@ -49,5 +49,5 @@ Please get in touch with either Julie or myself at [One15](https://one15.co){:ta
 
 &nbsp;
 
-- Dave
+~ Dave
 

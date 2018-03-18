@@ -92,5 +92,5 @@ You can read part to at: [Agile & Entrepreneurship Meetup – Part 2: Seán Fin
 
 Let me know what you think, or if you have any questions.
 
--Dave
+~ Dave
 

@@ -48,5 +48,5 @@ So I would say from both of these talks the most important thing if you want to 
 
 Let me know what you think, or if you have any questions.
 
-- Dave
+~ Dave
 

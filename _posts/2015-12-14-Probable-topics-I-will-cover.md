@@ -2,7 +2,7 @@
 layout: post
 title:  "Probable topics I will cover"
 date:   2015-12-14 23:59:49 +0000
-categories: jekyll update
+categories: updates
 ---
 
 Some of the topics I plan to write about are related to software development and Linux systems administration.  I have several technologies I find interesting, sometimes confusing, and often infuriating.  I'll be digging into plenty of different topics such as:
@@ -32,4 +32,4 @@ If there's anything specific you'd like to know more about let me know and I'll 
 
 &nbsp;
 
-- Dave
+~ Dave
