@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hi there Twitter Users
-permalink: /twitter/
+title: Hi there LinkedIn Users
+permalink: /in/
 show: false
 ---
 
-![Twitter dave_albert](/images/contact/twitter-hi.png){:class="img-responsive"}
-I’m happy to see you people of Twitter.
+![LinkedIn davewalbert](/images/contact/in-hi.png){:class="img-responsive"}
+I’m happy to see you people of LinkedIn.
 
 Links are in descending chronological order, so if you are looking for something I mentioned in the past, it may be down the list a bit.
 
