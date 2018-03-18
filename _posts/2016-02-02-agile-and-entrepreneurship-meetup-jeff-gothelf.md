@@ -88,7 +88,7 @@ Jeff gave a fantastic talk via Skype.  The talk was so good in fact I hardly ev
 This may have been one of the most inspiring presentations I've been to in years (and I went to the Web Summit!).  I'll definitely be buying Jeff's books.   You can find out more of his upcoming book at [sensingbook.com](http://lnc.hr/tqgHL){:target="_blank"}
 
 
-You can read part to at: Agile & Entrepreneurship Meetup – Part 2: Seán Finlay
+You can read part to at: [Agile & Entrepreneurship Meetup – Part 2: Seán Finlay](/agile/meetup/review/2016/02/02/agile-entrepreneurship-meetup-part-2-sean-finlay/)
 
 Let me know what you think, or if you have any questions.
 
