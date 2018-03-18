@@ -18,7 +18,7 @@ We’ve supported the current infrastructure, built tools and automations, perfo
 This is basically what you might call "moving to the cloud"; or taking the servers that are currently in legacy data centres and moving them into a dynamic data centre (think AWS, Azure, etc.)  
 
 
-The reason I’ve left Symantec is to start up a new business with my co-founder, Julie O’ Donnell [odonnellonline.ie](http://odonnellonline.ie). It’s called [One15](https://one15.co) and it’s a digital and marketing strategic consultancy firm. We also build digital solutions that we market ourselves. 
+The reason I’ve left Symantec is to start up a new business with my co-founder, Julie O’ Donnell [odonnellonline.ie](http://odonnellonline.ie){:target="_blank"}. It’s called [One15](https://one15.co){:target="_blank"} and it’s a digital and marketing strategic consultancy firm. We also build digital solutions that we market ourselves. 
 
 
 Julie and I worked together at Publicis D Healthcare 3 years ago. She will be the CEO at One15 and I will be the CTO, or Chief Technical Officer, responsible for all things tech: the apps, websites, automations, chat-bots, servers, tools, tech team, technical strategy, etc.  
@@ -45,7 +45,7 @@ Although I will be sad to no longer work with the people in my office and on my 
 I know there will be struggles and that it will be harder some days than others, but I also know with a long-term view that we will do well because we are investing in our own future. On those days when it’s hard to get out of bed, it will be a bit easier remembering our ultimate goal. 
 
 
-Please get in touch with either Julie or myself at [One15](https://one15.co), if you're in need of advice or assistance with anything digital or marketing related. We would love to help.  
+Please get in touch with either Julie or myself at [One15](https://one15.co){:target="_blank"}, if you're in need of advice or assistance with anything digital or marketing related. We would love to help.  
 
 &nbsp;
 

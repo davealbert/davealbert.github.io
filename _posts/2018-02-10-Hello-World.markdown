@@ -13,7 +13,7 @@ Thanks to <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll
 
 Well I've added a little more here today (Sunday the 11th) but I haven't decided if I'll move the other posts, or more likely start fresh since most of my posts have either been reposted to LinkedIn and/or Medium. The real need I have is for some different landing pages I have for my social media profiles.
 
-If you are curious you can see the code on [GitHub](https://github.com/davealbert/davealbert.github.io){:target="_blank :target="_blank"}. I can't say it's impressive, but if you are just looking in to jekyll it might be worth a look.
+If you are curious you can see the code on [GitHub](https://github.com/davealbert/davealbert.github.io){:target="_blank}. I can't say it's impressive, but if you are just looking in to jekyll it might be worth a look.
 
 Update
 ===
