@@ -13,14 +13,14 @@
 				<div class="container">
 					<nav>
 						<ul>
-							{% for page in site.pages %} {% if page.title and page.show %}
-                                {% if page.shorttitle %}
-                                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.shorttitle }}</a> |
+							{% for pg in site.pages %} {% if pg.title and pg.show %}
+                                {% if pg.shorttitle %}
+                                <li class={% if pg.url == page.url %}"active"{% endif %}><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.shorttitle }}</a></li>
                                 {% else %}
-                                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> |
+                                <li class={% if pg.url == page.url %}"active"{% endif %}><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title }}</a></li>
                                 {% endif %}
 							{% endif %} {% endfor %}
-							<a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a>
+                            <li class={% if '/blog/' == page.url %}"active"{% endif %}><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -28,3 +28,4 @@
 		</nav>
 	</div>
 </header>
+

@@ -28,10 +28,45 @@ body {
     height: 20em;
 }
 
+.trigger ul li {
+    list-style: none;
+}
+
+/* Add a color to the active/current link */
+nav li.active {
+    background-color: #ddd;
+    color: white;
+}
+
+/* Change the color of links on hover */
+nav li:hover {
+    background-color: #ccc;
+    color: black;
+}
+
+nav {
+    float: left;
+    ul {
+        float: left;
+    }
+    ul > li {
+        float: left;
+        padding: 0 0.6em;
+    }
+}
 
 @media screen and (max-width:600px) {
     .trigger-hide {
         display: none;
+    }
+
+    nav {
+        clear: both;
+        ul > li {
+            text-align: left;
+            width: 86%;
+            border-bottom: 1px solid #ccc;
+        }
     }
 
     .menu-icon {
