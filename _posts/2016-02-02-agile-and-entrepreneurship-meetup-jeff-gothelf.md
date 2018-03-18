@@ -6,16 +6,16 @@ categories: agile meetup review
 youtubeId: 24XSvlR8GLA
 ---
 
-**"Shipped doesn't mean done" & other lessons any developer can apply today.**
+<h2>"Shipped doesn't mean done" & other lessons any developer can apply today.</h2>
 
 
 ![Lean UX book Jeff Gothelf](/images/posts/AandE-books-founders.jpg){:class="img-max400"}
 
 
-Recently I went to an "Agile & Entrepreneurship Dublin" [Meetup](http://www.meetup.com/Agile-Entrepreneurship-Dublin-Meetup/events/225808394/){:target="_blank"} featuring [Jeff Gothelf](http://www.jeffgothelf.com/){:target="_blank"}, co-author of the best-selling [Lean UX: Applying Lean Principles to Improve User Experience](http://shop.oreilly.com/product/0636920021827.do){:target="_blank"} book, (via Skype) and Sean Finlay, who is Head of Propositions at Ammeon who spoke in person. Sean writes a DevOps and Lean-Agile blog.  In this post I'm going to describe the group, the venue, the talks, and the key take aways I took to heart from the talks.
+  Recently I went to an "Agile & Entrepreneurship Dublin" [Meetup](http://www.meetup.com/Agile-Entrepreneurship-Dublin-Meetup/events/225808394/){:target="_blank"} featuring [Jeff Gothelf](http://www.jeffgothelf.com/){:target="_blank"}, co-author of the best-selling [Lean UX: Applying Lean Principles to Improve User Experience](http://shop.oreilly.com/product/0636920021827.do){:target="_blank"} book, (via Skype) and Sean Finlay, who is Head of Propositions at Ammeon who spoke in person. Sean writes a DevOps and Lean-Agile blog.  In this post I'm going to describe the group, the venue, the talks, and the key take aways I took to heart from the talks.
 
 
-**The Group (Agile & Entrepreneurship Dublin)**
+<h2>The Group (Agile & Entrepreneurship Dublin) </h2>
 
 The meetup group was started by 3 colleagues of mine, and I wanted to support their efforts as well as the fact that I'm interested in the subject matter.  The focus of the group is based on Agile/Lean/KanBan/Scrum software and business development, as well as topics of interest to the entrepreneurial community.  The group was started on "Jul 20, 2015" and at this writing (31st January 2016) has 412 registered members.
 
@@ -24,7 +24,7 @@ The meetup group was started by 3 colleagues of mine, and I wanted to support th
 > Come along to learn from top guest speakers, network, pitch for new job opportunities, have a beer and have some fun along the way." - From their "about" on [meetup.com](http://www.meetup.com/Agile-Entrepreneurship-Dublin-Meetup/){:target="_blank"}
 
 
-**The Venue**
+<h2>The Venue</h2>
 
 Bank of Ireland on Grand Canal Square have a great looking space they offer to startups for meetings and as a work area.  They kindly offer this space to the meetup group.  As well as having some refreshments available including more wine and beer.
 
@@ -48,7 +48,7 @@ The Talks
 Introduction by A&E Organisers
 One of the most interesting things said in the welcome and introduction was that the organisers described themselves as experimentalists.  Saying that the the venue, the Skype presentation, and even the meetup group itself were all experiments and they are testing, learning, and adjusting as they went along.  I'd say we could all use a bit more of this attitude.
 
-**Jeff Gothelf**
+<h2>Jeff Gothelf</h2>
 
 _Ship, Sense, and Respond: A Culture Of Continuous Learning_
 
@@ -60,7 +60,7 @@ Jeff gave a fantastic talk via Skype.  The talk was so good in fact I hardly ev
 &nbsp;
 
 
-**The biggest takeaways that really had meaning to me were as follows:**
+<h2>The biggest takeaways that really had meaning to me were as follows:</h2>
 
 * Create a culture of continuous learning (this is learning what your customer responds too, not just learning how to do something)
 * Shipping isn't done. Done is when a meaningful change in customer behaviour happens.
