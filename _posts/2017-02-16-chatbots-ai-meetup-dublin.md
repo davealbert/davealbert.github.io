@@ -2,7 +2,7 @@
 layout: post
 title:  "Chatbots/AI meetup in Dublin"
 date:   2017-02-16 23:59:49 +0000
-categories: chatnots ai meetup
+categories: chatbots ai meetup
 ---
 
 <h2>CHAI Dublin meetup on 16-February-2017</h2>
