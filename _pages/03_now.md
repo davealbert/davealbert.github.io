@@ -22,7 +22,6 @@ This is my podcast about building a startup from a first time CTO’s perspectiv
 * Medit – a Health Care Professional Kowledge Platform
 We are building a mobile platform for healthcare professionals to quickly access & discover the best medical content using Machine Learning (ML) and Artificial Intelligence (AI).
 
- 
 * Preparing to go hard at a healthcare related app we plan to have an Alpha/Closed Beta of before April
 
 * Recovering from the last couple days.  Here are my Instagram posts about the Dublin Tech Summit 
@@ -36,6 +35,5 @@ We are building a mobile platform for healthcare professionals to quickly access
 * Currently in love with chatbots, and chat-ops
 
 * Seriously considering getting and Amazon Alexa device (Echo or more likely a Dot)
- 
 
 *Last update 11th February 2018*

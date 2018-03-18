@@ -14,7 +14,11 @@
 					<nav>
 						<ul>
 							{% for page in site.pages %} {% if page.title and page.show %}
-							<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> | 
+                                {% if page.shorttitle %}
+                                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.shorttitle }}</a> |
+                                {% else %}
+                                    <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> |
+                                {% endif %}
 							{% endif %} {% endfor %}
 							<a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a>
 						</ul>
