@@ -6,8 +6,12 @@
 </template>
 
 <script>
+import Test from './components/test'
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Test
+  }
 }
 </script>
 
