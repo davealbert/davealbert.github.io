@@ -4,65 +4,129 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
-  <loc>https://davealbert.github.io/</loc>
-  <lastmod>2017-08-12T14:13:52+00:00</lastmod>
+  <loc>https://dave-albert.com/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/</loc>
-  <lastmod>2017-08-12T14:13:52+00:00</lastmod>
+  <loc>https://dave-albert.com/about/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/about-me.txt</loc>
-  <lastmod>2017-08-08T13:05:34+00:00</lastmod>
+  <loc>https://dave-albert.com/contact/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/focus.txt</loc>
-  <lastmod>2017-08-08T13:05:39+00:00</lastmod>
+  <loc>https://dave-albert.com/now/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/gnu-parallel.txt</loc>
-  <lastmod>2017-08-08T13:05:44+00:00</lastmod>
+  <loc>https://dave-albert.com/cto-and-co-founder-talk-with-dave-albert/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/hiring-tips.txt</loc>
-  <lastmod>2017-08-08T13:05:49+00:00</lastmod>
+  <loc>https://dave-albert.com/textfiles/</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/index.html</loc>
-  <lastmod>2017-08-12T09:07:04+00:00</lastmod>
+  <loc>https://dave-albert.com/jekyll/update/2018/02/10/Hello-World/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/nothing.txt</loc>
-  <lastmod>2017-08-06T09:42:14+00:00</lastmod>
+  <loc>https://dave-albert.com/nginx/meetup/2017/03/01/dublin-devops-nginx/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/null.txt</loc>
-  <lastmod>2017-08-06T09:42:17+00:00</lastmod>
+  <loc>https://dave-albert.com/chatnots/ai/meetup/2017/02/16/chatbots-ai-meetup-dublin/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/old-skool-twitter.txt</loc>
-  <lastmod>2017-08-12T14:13:39+00:00</lastmod>
+  <loc>https://dave-albert.com/startup/2016/12/16/and-now-for-something-new/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/tech-stack.txt</loc>
-  <lastmod>2017-08-08T13:06:01+00:00</lastmod>
+  <loc>https://dave-albert.com/agile/meetup/review/2016/02/02/agile-entrepreneurship-meetup-part-2-sean-finlay/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/vim-tips.txt</loc>
-  <lastmod>2017-08-08T16:35:52+00:00</lastmod>
+  <loc>https://dave-albert.com/agile/meetup/review/2016/02/02/agile-and-entrepreneurship-meetup-jeff-gothelf/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/wtf-faq.txt</loc>
-  <lastmod>2017-08-08T13:06:12+00:00</lastmod>
+  <loc>https://dave-albert.com/updates/2015/12/14/Probable-topics-I-will-cover/</loc>
+  <lastmod>2018-03-18T18:56:44+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/textfiles/xcode-tips.txt</loc>
-  <lastmod>2017-08-08T15:28:32+00:00</lastmod>
+  <loc>https://dave-albert.com/textfiles/about-me.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://davealbert.github.io/index.html</loc>
-  <lastmod>2017-08-12T08:10:18+00:00</lastmod>
+  <loc>https://dave-albert.com/textfiles/focus.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+<url>
+  <loc>https://dave-albert.com/textfiles/gnu-parallel.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/hiring-tips.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/nothing.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/null.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/old-skool-twitter.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/tech-stack.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/vim-tips.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/wtf-faq.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://dave-albert.com/textfiles/xcode-tips.txt</loc>
+  <lastmod>2018-03-18T18:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
