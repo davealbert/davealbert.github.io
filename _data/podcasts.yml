@@ -4,6 +4,7 @@
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/005-Dave-Albert-Show.mp3
    date: Tue, 21 Nov 2017 09:10:00 GMT
    duration: 34:07
+   length: 30430289
 
  - title: I am back, NDRC Accelerator, Startups are hard
    subtitle: I am finally back and some of the struggles we have been through.
@@ -11,6 +12,7 @@
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/004-Dave-Albert-Show.mp3
    date: Tue, 21 Nov 2017 09:00:00 GMT
    duration: 18:26
+   length: 18699378
 
  - title: User Productivity Tools We Use
    subtitle: User Productivity Tools We Use
@@ -18,6 +20,7 @@
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/003-Dave-Albert-Show.mp3
    date: Tue, 11 Apr 2017 14:05:00 GMT
    duration: 23:26
+   length: 20975605
 
  - title: Choosing Digital Ocean over AWS
    subtitle: Choosing Digital Ocean over AWS
@@ -25,6 +28,7 @@
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/002-Dave-Albert-Show.mp3
    date: Sat, 08 Apr 2017 07:10:00 GMT
    duration: 23:58
+   length: 21586832
 
  - title: Hello World, being a CTO and Co-Founder
    subtitle: An introduciton to me, One15, and this podcast.
@@ -32,4 +36,6 @@
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/001-Dave-Albert-Show.mp3
    date: Sat, 08 Apr 2017 07:01:00 GMT
    duration: 11:46
+   length: 11042361
+
 
