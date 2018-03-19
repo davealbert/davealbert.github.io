@@ -23,3 +23,7 @@ Where I discuss what it’s like being a first-time CTO and Co-Founder. The joys
 [Player.fm](https://player.fm/series/cto-and-co-founder-talk-with-dave-albert){:target="_blank"}
 
 [MyTuner Radio](https://mytuner-radio.com/podcasts/cto-and-co-founder-talk-with-dave-albert-dave-albert-1247392672){:target="_blank"}
+
+<div>
+{% include disqus.html %}
+</div>
