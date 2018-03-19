@@ -55,6 +55,23 @@ nav {
     }
 }
 
+.podcast-episode {
+    i {
+        font-size: 12px;
+        color: #666;
+        padding-left: 15px;
+    }
+
+    p {
+        font-size: 12px;
+        color: #666;
+        padding-left: 15px;
+    }
+
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
 @media screen and (max-width:600px) {
     .trigger-hide {
         display: none;
