@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        <channel>
+        <title>CTO and Co-Founder Talk with Dave Albert</title>
+        <link>https://dave-albert.com</link>
+        <language>en-us</language>
+        <copyright>&#x2117; &amp; &#xA9; 2017 Dave Albert &amp; One15 Digital XVentures</copyright>
+        <itunes:subtitle>A show about Technology and Startup life</itunes:subtitle>
+        <itunes:author>Dave Albert</itunes:author>
+        <itunes:summary>Where I discuss what it's like being a first-time CTO and Co-Founder. The joys, the decision, and the challenges. I hope this helps others in similar situations or aspire to the same.</itunes:summary>
+        <description>Where I discuss what it's like being a first-time CTO and Co-Founder. The joys, the decision, and the challenges. I hope this helps others in similar situations or aspire to the same.</description>
+        <itunes:link href="https://dave-albert.com/podcast/podcast.rss" rel="self" type="application/rss+xml" />
+        <itunes:owner>
+            <itunes:name>Dave Albert</itunes:name>
+            <itunes:email>podcast@dave-albert.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://dave-albert.com/podcast/podcast-image1400x1400.jpg"/>
+        <itunes:category text="Technology"></itunes:category>
+        <itunes:category text="Business"></itunes:category>
+        <itunes:explicit>yes</itunes:explicit>
+        <item>
+            <title>Hello World, being a CTO and Co-Founder</title>
+            <itunes:author>Dave Albert</itunes:author>
+            <itunes:subtitle>An introduciton to me, One15, and this podcast.</itunes:subtitle>
+            <itunes:summary><![CDATA[This episode I introduce myself, One15 and the podcast.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co https://dave-albert.com ]]></itunes:summary>
+            <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
+            <enclosure length="11042361" type="audio/mp3" url="https://dave-albert.com/podcast/001-Dave-Albert-Show.mp3"/>
+            <guid>https://dave-albert.com/podcast/001-Dave-Albert-Show.mp3</guid>
+            <pubDate>Sat, 08 Apr 2017 07:01:00 GMT</pubDate>
+            <itunes:duration>11:42</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>Choosing Digital Ocean over AWS</title>
+            <itunes:author>Dave Albert</itunes:author>
+            <itunes:subtitle>Choosing Digital Ocean over AWS</itunes:subtitle>
+            <itunes:summary><![CDATA[This episode I explain the decision to choose Digital Ocean over Amazon AWS.  Email: podcast@dave-albert.com  Digital Ocean Free Credit: https://m.do.co/c/16b16e2a7fb9 Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co https://dave-albert.com ]]></itunes:summary>
+            <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
+            <enclosure length="21586832" type="audio/mp3" url="https://dave-albert.com/podcast/002-Dave-Albert-Show.mp3"/>
+            <guid>https://dave-albert.com/podcast/002-Dave-Albert-Show.mp3</guid>
+            <pubDate>Sat, 08 Apr 2017 07:10:00 GMT</pubDate>
+            <itunes:duration>23:58</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+        <item>
+            <title>User Productivity Tools We Use</title>
+            <itunes:author>Dave Albert</itunes:author>
+            <itunes:subtitle>User Productivity Tools We Use</itunes:subtitle>
+            <itunes:summary><![CDATA[This episode I explain our decisions to choose different user productivity tools.  Email: podcast@dave-albert.com  Digital Ocean Free Credit: https://m.do.co/c/16b16e2a7fb9 Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co https://dave-albert.com Tools: https://gsuite.google.com/ https://trello.com/  https://www.atlassian.com/software/confluence  https://workplace.fb.com/  https://bitbucket.org/ ]]></itunes:summary>
+            <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
+            <enclosure length="20975605" type="audio/mp3" url="https://dave-albert.com/podcast/003-Dave-Albert-Show.mp3"/>
+            <guid>https://dave-albert.com/podcast/003-Dave-Albert-Show.mp3</guid>
+            <pubDate>Tues, 11 Apr 2017 14:05:00 GMT</pubDate>
+            <itunes:duration>23:58</itunes:duration>
+            <itunes:explicit>yes</itunes:explicit>
+        </item>
+    </channel>
+</rss>
