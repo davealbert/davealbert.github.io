@@ -14,7 +14,7 @@ What I’m doing now
 Im currently working on:
 
 
-* ~~Moving~~ Moved my WordPress blog to [this site](/jekyll/update/2018/02/20/Jekyll-site-now-live/) ... ~~maybe???~~
+* ~~Moving~~ Moved my WordPress blog to [this site](/jekyll/update/2018/03/19/Jekyll-site-now-live/) ... ~~maybe???~~
 
 * CTO and Co-Founder Podcast
 This is my podcast about building a startup from a first time CTO’s perspective

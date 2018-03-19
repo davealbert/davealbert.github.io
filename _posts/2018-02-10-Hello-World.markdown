@@ -25,6 +25,6 @@ As of 2018-02-11 19:20 [dave-albert.com](https://dave-albert.com){:target="_blan
 &nbsp;
 &nbsp;
 
-**2018-03-19** -> The site has been moved see [here](/jekyll/update/2018/02/20/Jekyll-site-now-live/)
+**2018-03-19** -> The site has been moved see [here](/jekyll/update/2018/03/19/Jekyll-site-now-live/)
 
 
