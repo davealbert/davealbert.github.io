@@ -24,8 +24,8 @@
             <itunes:subtitle>An introduciton to me, One15, and this podcast.</itunes:subtitle>
             <itunes:summary><![CDATA[This episode I introduce myself, One15 and the podcast.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co | https://dave-albert.com ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
-            <enclosure length="11042361" type="audio/mp3" url="https://dave-albert.com/podcast/001-Dave-Albert-Show.mp3"/>
-            <guid>https://dave-albert.com/podcast/001-Dave-Albert-Show.mp3</guid>
+            <enclosure length="11042361" type="audio/mp3" url="https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/001-Dave-Albert-Show.mp3"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/001-Dave-Albert-Show.mp3</guid>
             <pubDate>Sat, 08 Apr 2017 07:01:00 GMT</pubDate>
             <itunes:duration>11:42</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
@@ -36,8 +36,8 @@
             <itunes:subtitle>Choosing Digital Ocean over AWS</itunes:subtitle>
             <itunes:summary><![CDATA[This episode I explain the decision to choose Digital Ocean over Amazon AWS.  Email: podcast@dave-albert.com  Digital Ocean Free Credit: https://m.do.co/c/16b16e2a7fb9 Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co | https://dave-albert.com ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
-            <enclosure length="21586832" type="audio/mp3" url="https://dave-albert.com/podcast/002-Dave-Albert-Show.mp3"/>
-            <guid>https://dave-albert.com/podcast/002-Dave-Albert-Show.mp3</guid>
+            <enclosure length="21586832" type="audio/mp3" url="https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/002-Dave-Albert-Show.mp3"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/002-Dave-Albert-Show.mp3</guid>
             <pubDate>Sat, 08 Apr 2017 07:10:00 GMT</pubDate>
             <itunes:duration>23:58</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
@@ -48,8 +48,8 @@
             <itunes:subtitle>User Productivity Tools We Use</itunes:subtitle>
             <itunes:summary><![CDATA[This episode I explain our decisions to choose different user productivity tools.  Email: podcast@dave-albert.com  Digital Ocean Free Credit: https://m.do.co/c/16b16e2a7fb9 Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://one15.co | https://dave-albert.com Tools: https://gsuite.google.com/ https://trello.com/  https://www.atlassian.com/software/confluence  https://workplace.fb.com/  https://bitbucket.org/ ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
-            <enclosure length="20975605" type="audio/mp3" url="https://dave-albert.com/podcast/003-Dave-Albert-Show.mp3"/>
-            <guid>https://dave-albert.com/podcast/003-Dave-Albert-Show.mp3</guid>
+            <enclosure length="20975605" type="audio/mp3" url="https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/003-Dave-Albert-Show.mp3"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/003-Dave-Albert-Show.mp3</guid>
             <pubDate>Tue, 11 Apr 2017 14:05:00 GMT</pubDate>
             <itunes:duration>23:58</itunes:duration>
             <itunes:explicit>yes</itunes:explicit>
@@ -60,8 +60,8 @@
             <itunes:subtitle>I am finally back and some of the struggles we have been through.</itunes:subtitle>
             <itunes:summary><![CDATA[This episode I talk about the challenges we have had, and the NDRC accelerator program that we have been through. I also talk a bit about the agile challenges and quirks of AWS credits and how Azure credits are very compelling.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
-            <enclosure length="20975605" type="audio/mp3" url="https://dave-albert.com/podcast/004-Dave-Albert-Show.mp3"/>
-            <guid>https://dave-albert.com/podcast/004-Dave-Albert-Show.mp3</guid>
+            <enclosure length="20975605" type="audio/mp3" url="https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/004-Dave-Albert-Show.mp3"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/004-Dave-Albert-Show.mp3</guid>
             <pubDate>Tue, 21 Nov 2017 09:00:00 GMT</pubDate>
             <itunes:duration>18:26</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
@@ -72,8 +72,8 @@
             <itunes:subtitle>Talking about the the search for a new data person, story telling and Terraform.</itunes:subtitle>
             <itunes:summary><![CDATA[This episode I talk about attending the National Analytics Conferance Ireland where I'm looking for a new data science/ML/AI type, and an AWS user group meetup where I fell in love with Terraform.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
-            <enclosure length="20975605" type="audio/mp3" url="https://dave-albert.com/podcast/005-Dave-Albert-Show.mp3"/>
-            <guid>https://dave-albert.com/podcast/005-Dave-Albert-Show.mp3</guid>
+            <enclosure length="20975605" type="audio/mp3" url="https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/005-Dave-Albert-Show.mp3"/>
+            <guid>https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/005-Dave-Albert-Show.mp3</guid>
             <pubDate>Tue, 21 Nov 2017 09:10:00 GMT</pubDate>
             <itunes:duration>34:07</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
