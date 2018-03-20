@@ -19,3 +19,12 @@ Update
 ===
 
 As of 2018-02-11 19:20 [dave-albert.com](https://dave-albert.com){:target="_blank"} has come back from the dead! Now to run setup automated backups.  I had them when the site was in Digital Ocean, but didn't get to it when it was moved to Azure. Now will I keep it or move everything here? hmmmmmm...
+
+---
+
+&nbsp;
+&nbsp;
+
+**2018-03-19** -> The site has been moved see [here](/jekyll/update/2018/03/19/Jekyll-site-now-live/)
+
+

@@ -33,6 +33,6 @@ Visits to this page: <span style="font-weight: bold;" id="counter">???</span> --
 ---
 
 <div>
-{% include blog-feed.html %}
+{% include partial-blog-feed.html %}
 </div>
 

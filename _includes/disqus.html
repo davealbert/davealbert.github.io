@@ -1,24 +1,3 @@
----
-layout: default
----
-
-<h1>{{ page.title }}</h1>
-
-<time>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
-
-{{ content }}
-
-{% if page.previous.url %}
-<a href="{{page.previous.url}}"><~ {{page.previous.title}}</a>
-{% endif %} |
-
-{% if page.next.url %}
-<a class="button is-link ellipsis" title="{{page.previous.title}}" href="{{page.next.url}}">{{page.next.title}} ~></a>
-{% endif %}
-
-<p></p>
-<p></p>
-
 <div id="disqus_thread"></div>
 <script>
 
