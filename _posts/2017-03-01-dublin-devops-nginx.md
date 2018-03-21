@@ -3,6 +3,7 @@ layout: post
 title:  "Dublin DevOps meetup – Nginx (1 March 2017)"
 date:   2017-03-01 23:59:49 +0000
 categories: nginx meetup
+permalink: /:title
 ---
 
 

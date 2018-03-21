@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Prototype in a Design Sprint - Meetup"
-date:   2018-02-20 23:59:49 +0000
+date:   2018-03-20 03:59:49 +0000
 categories: design-sprint meetup
 ---
 
@@ -26,4 +26,20 @@ This is the meetup I attended and I wanted to get out a few of the key points an
 > 2. Prototypes are disposable
 > 3. Build just enough to learn, but not more
 > 4. The prototype must appear real
+
+---
+
+
+I've already listened to the audiobook, "Sprint" by John Zeratsky, Jake Knapp, Braden Kowitz, and that is what this meetup was about.
+
+If you don't already have an Audible account you can have the book for free:
+
+> It's totally free and you won't need a credit card if it is your first time accepting an Audible book from a friend.
+
+> [Get it here](http://a.co/azzSjiq){:target="_blank"}
+
+> After you accept the book, you will be prompted to download the Audible app to start listening.
+
+
+
 
