@@ -31,10 +31,9 @@ sass:
 include: ['_pages']
 gems:
   - jekyll-feed
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
 kramdown:
   input: GFM
-plugins:
-  - jekyll-sitemap
