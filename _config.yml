@@ -36,3 +36,5 @@ exclude:
   - Gemfile.lock
 kramdown:
   input: GFM
+plugins_dir:
+  - jekyll-sitemap
