@@ -68,7 +68,7 @@ Wed  9 Aug 2017 14:43:00 IST
 - Major breakthrough on the current #nodejs API code. Nothing to complicated, just finally having bits come together. #CTOlife #Startup
 
 Wed  9 Aug 2017 12:14:09 IST
-- Looking forward the the Dublin #DevOps meetup tonight. Finding out how @slack do #databases.
+- Looking forward the Dublin #DevOps meetup tonight. Finding out how @slack do #databases.
 
 Wed  9 Aug 2017 10:33:16 IST
 - Good meeting re: design.  Solves a specific problem we had.

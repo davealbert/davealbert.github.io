@@ -67,10 +67,10 @@
             <itunes:explicit>no</itunes:explicit>
         </item>
         <item>
-            <title>National Analytics Conferance Ireland, and AWS User group.</title>
+            <title>National Analytics Conference Ireland, and AWS User group.</title>
             <itunes:author>Dave Albert</itunes:author>
-            <itunes:subtitle>Talking about the the search for a new data person, story telling and Terraform.</itunes:subtitle>
-            <itunes:summary><![CDATA[This episode I talk about attending the National Analytics Conferance Ireland where I'm looking for a new data science/ML/AI type, and an AWS user group meetup where I fell in love with Terraform.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online ]]></itunes:summary>
+            <itunes:subtitle>Talking about the search for a new data person, story telling and Terraform.</itunes:subtitle>
+            <itunes:summary><![CDATA[This episode I talk about attending the National Analytics Conference Ireland where I'm looking for a new data science/ML/AI type, and an AWS user group meetup where I fell in love with Terraform.  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online ]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
             <enclosure length="20975605" type="audio/mp3" url="https://dave-albert.com/podcast/005-Dave-Albert-Show.mp3"/>
             <guid>https://dave-albert.com/podcast/005-Dave-Albert-Show.mp3</guid>
