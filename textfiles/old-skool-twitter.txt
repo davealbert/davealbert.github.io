@@ -16,6 +16,9 @@ that happened.  Email or Twitter (see footer)
 "Tweets"
 ========
 
+Tue 30 Oct 2018 05:38:25 GMT
+- timeline --csv -l -n 800 -d -r
+
 Thu 23 Nov 2017 11:13:56 GMT
 - My goodness my iPhone 6 has garbage battery life since 'downgrading' to #iOS 11 #wtf @apple ? I used to get a day now I get 3 hours. Time to move to #android ?
 
