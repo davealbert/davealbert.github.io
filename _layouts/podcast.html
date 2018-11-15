@@ -1,0 +1,30 @@
+---
+layout: page
+---
+
+<div>
+    <h2>
+        {{ page.subtitle }}
+    </h2>
+    {{ page.label }}
+
+    <div class="podcast-episode">
+        <i>{{ page.date }}</i><br />
+        <i>duration: {{ page.duration }}</i>
+        <audio src="{{ page.source }}" controls="controls">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    &nbsp;
+
+
+    <div>
+        <h3>
+            Transcript:
+        </h3>
+    </div>
+</div>
+
+{{ content }}
+
