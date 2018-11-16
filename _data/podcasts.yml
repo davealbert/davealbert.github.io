@@ -5,6 +5,7 @@
    date: Thu, 15 Nov 2018 04:30:54 GMT
    duration: 10.19
    length: 6810818
+   transcript: "QT-006"
 
  - title: "QT: Speed Kills"
    subtitle: "A quick take on why moving to fast can be a problem."
@@ -13,6 +14,7 @@
    date: Tue, 14 Nov 2018 04:46:54 GMT
    duration: 7:27
    length: 6264723
+   transcript: "QT-005"
 
  - title: "QT: Changing to a delivery mindset"
    subtitle: "Quick take on changing your mindset from development to delivery."
@@ -21,6 +23,7 @@
    date: Tue, 14 Nov 2018 04:45:54 GMT
    duration: 15:05
    length: 12672778
+   transcript: "QT-004"
 
  - title: "QT: Why Medit chose Native Mobile Applications over a hybrid like React Native"
    subtitle: "We chose native mobile applications at Medit, what would you choose?"
@@ -29,6 +32,7 @@
    date: Tue, 13 Nov 2018 04:45:54 GMT
    duration: 8:16
    length: 7897650
+   transcript: "QT-003"
 
  - title: "QT: Why Medit chose MongoDB"
    subtitle: "We chose MongoDB at Medit, what would you choose?"
@@ -37,6 +41,7 @@
    date: Sun, 11 Nov 2018 11:11:13 GMT
    duration: 7:43
    length: 7369181
+   transcript: "QT-002"
 
  - title: "QT: Why is Medit planning on using Vue.js over Reactjs"
    subtitle: "Vue.js is the right one for us, what would you choose?"
@@ -45,6 +50,7 @@
    date: Sun, 11 Nov 2018 11:11:12 GMT
    duration: 5:55
    length: 5488046
+   transcript: "QT-001"
 
  - title: "QT: What is a Quick Take?"
    subtitle: Introduction to my quick takes
@@ -53,6 +59,7 @@
    date: Sun, 11 Nov 2018 11:11:11 GMT
    duration: 3:57
    length: 372158
+   transcript: "QT-Intro"
 
  - title: Dublin Indie Hackers no. 3 - with Courtland Allen and John Collison @ Stripe
    subtitle: Takeaways from a Fireside Chat with Indie Hackers founder Courtland Allen and Stripe co-founder John Collison
@@ -61,6 +68,7 @@
    date: Fri, 09 Nov 2018 05:14:00 GMT
    duration: 21:24
    length: 19967326
+   transcript: "006"
 
  - title: National Analytics Conference Ireland, and AWS User group.
    subtitle: Talking about the search for a new data person, story telling and Terraform.
@@ -69,6 +77,7 @@
    date: Tue, 21 Nov 2017 09:10:00 GMT
    duration: 34:07
    length: 30430289
+   transcript: "005"
 
  - title: I am back, NDRC Accelerator, Startups are hard
    subtitle: I am finally back and some of the struggles we have been through.
@@ -77,6 +86,7 @@
    date: Tue, 21 Nov 2017 09:00:00 GMT
    duration: 18:26
    length: 18699378
+   transcript: "004"
 
  - title: User Productivity Tools We Use
    subtitle: User Productivity Tools We Use
@@ -85,6 +95,7 @@
    date: Tue, 11 Apr 2017 14:05:00 GMT
    duration: 23:26
    length: 20975605
+   transcript: "003"
 
  - title: Choosing Digital Ocean over AWS
    subtitle: Choosing Digital Ocean over AWS
@@ -93,6 +104,7 @@
    date: Sat, 08 Apr 2017 07:10:00 GMT
    duration: 23:58
    length: 21586832
+   transcript: "002"
 
  - title: Hello World, being a CTO and Co-Founder
    subtitle: An introduciton to me, One15, and this podcast.
@@ -101,5 +113,6 @@
    date: Sat, 08 Apr 2017 07:01:00 GMT
    duration: 11:46
    length: 11042361
+   transcript: "001"
 
 

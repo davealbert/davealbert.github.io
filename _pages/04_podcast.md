@@ -38,6 +38,7 @@ Where I discuss what it’s like being a first-time CTO and Co-Founder. The joys
             Your browser does not support the audio element.
         </audio>
         <p>{{ episode.summary }}</p>
+        <a href="/podcast/episode/{{ episode.transcript }}">Transcript</a>
     </div>
 {% endfor %}
 </div>
