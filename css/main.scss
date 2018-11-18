@@ -32,17 +32,25 @@ body {
     list-style: none;
 }
 
+.site-nav {
+    line-height: 35px !important;
+}
+
 /* Add a color to the active/current link */
-nav li.active {
-    background-color: #ddd;
+nav li.active, nav li:hover {
+    background-color: #42424220;
     color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
 }
 
 /* Change the color of links on hover */
-nav li:hover {
-    background-color: #ccc;
-    color: black;
-}
+//nav li:hover {
+    //background-color: #42424240;
+    //color: white;
+    //border-bottom-left-radius: 20px;
+    //border-bottom-right-radius: 20px;
+//}
 
 nav {
     float: left;

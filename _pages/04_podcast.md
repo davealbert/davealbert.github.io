@@ -14,6 +14,8 @@ Where I discuss what it’s like being a first-time CTO and Co-Founder. The joys
 ![CTO and Co-Founder Talk with Dave Albert](/images/Podcast-Image-1400x1400-676x676.jpg){:class="img-responsive img-20em"}
 
 
+[Spotify](https://open.spotify.com/show/4J0VmigjL5H5kXqDYQENcF?si=vH63eQ2kRCWAVi5TGuBk_g){:target="_blank"}
+
 [iTunes](https://itunes.apple.com/us/podcast/cto-and-co-founder-talk-with-dave-albert/id1247392672){:target="_blank"}
 
 [Sticher](https://www.stitcher.com/podcast/dave-albert-3/cto-and-cofounder-talk-with-dave-albert){:target="_blank"}
