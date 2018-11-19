@@ -1,3 +1,21 @@
+ #- title: "Rob Healy"
+   #subtitle: "Rob Healy"
+   #summary: " -- Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online"
+   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/007-Rob-Healy.mp3
+   #date: Thu, 15 Nov 2018 04:30:54 GMT
+   #duration: 50:52
+   #length: 42763847
+   #transcript: "007"
+
+ - title: "Our CI/CD pipeline and why it's awesome"
+   subtitle: "The CI/CD pipeline at Medit and why it makes us better"
+   summary: "What is CI/CD, how we use it at Medit and how it makes us better -- Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/008-CI-CD-Pipeline.mp3
+   date: Thu, 19 Nov 2018 04:30:54 GMT
+   duration: 24:01
+   length: 15699547
+   transcript: "008"
+
  - title: "QT: Jupyter notebooks and IJavascript"
    subtitle: "Jupyter notebooks aren't just for Machine Learning (ML)/Artificial Intelligence (AI), and using javascript with them"
    summary: "QT: How I use Jupyter notebooks, and how to use javascript with them -- more about Jupyter here: https://jupyter.org/  and more about IJavascript here: http://n-riesco.github.io/ijavascript/  Email: podcast@dave-albert.com  Twitter: https://twitter.com/dave_albert  Instagram: https://www.instagram.com/dave.albert/  Websites: https://dave-albert.com | https://medit.online"
