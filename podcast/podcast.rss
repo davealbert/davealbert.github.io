@@ -26,10 +26,10 @@
             <itunes:subtitle>{{ episode.subtitle }}</itunes:subtitle>
             <content:encoded><![CDATA[{{ episode.summary }} 
 
-Email: podcast@dave-albert.com
-Twitter: https://twitter.com/dave_albert
-Instagram: https://www.instagram.com/dave.albert/
-Websites: https://dave-albert.com | https://medit.online]]></content:encoded>
+<br />Email: podcast@dave-albert.com
+<br />Twitter: https://twitter.com/dave_albert
+<br />Instagram: https://www.instagram.com/dave.albert/
+<br />Websites: https://dave-albert.com | https://medit.online]]></content:encoded>
             <itunes:summary><![CDATA[{{ episode.summary }} 
 
 Email: podcast@dave-albert.com
