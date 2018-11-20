@@ -1,15 +1,35 @@
- #- title: "Guest Rob Healy"
-   #subtitle: "Rob Healy"
-   #summary: " Foobarbaz"
-   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/007-Rob-Healy.mp3
-   #date: Thu, 15 Nov 2018 04:30:54 GMT
-   #duration: 50:52
-   #length: 42763847
-   #transcript: "007"
+ - title: "Guest Rob Healy | Agile/Lean Startups"
+   subtitle: "Rob Healy and I discussing agile and lean in startups."
+   summary: "I sat down with Rob Healy of Ammeon who is a co-organizer of the Agile-Lean Ireland group.  We discussed how startups and other orginisations can use Agile and Lean to do more faster.
+
+   A bit about Rob
+Rob is a principal consultant with Ammeon where he provides agile and lean training, coaching and consulting services to startups, SMEs and enterprise clients. A qualified mechanical engineer and MBA, he has worked to develop and improve products and services for the nuclear industry, formula one teams, telcos and antivirus companies.In his spare time, he organises the Agile-Lean Ireland Meetup group that hosts technology meetups for Scrum Masters and Agile and Lean Coaches once a month.
+
+About Ammeon
+
+Ammeon is an Irish owned Training, Consulting and IT Professional Services company. From Understanding the Fundamentals of Agile-Lean, to Operating IT Software in Production, our training services are designed to improve and fast-track your organisation's journey. We can custom-designed our courses to meet our client's specific needs and provide coaching assistance to help them integrate new processes and technologies into their working environment. Ammeon is listed on Enterprise Ireland's Lean Service Providers list and also on their Lean Education Directory."
+   encoded: "I sat down with Rob Healy of Ammeon who is a co-organizer of the Agile-Lean Ireland group.  We discussed how startups and other orginisations can use Agile and Lean to do more faster.
+
+<br />
+   A bit about Rob
+<br />
+Rob is a principal consultant with Ammeon where he provides agile and lean training, coaching and consulting services to startups, SMEs and enterprise clients. A qualified mechanical engineer and MBA, he has worked to develop and improve products and services for the nuclear industry, formula one teams, telcos and antivirus companies.In his spare time, he organises the Agile-Lean Ireland Meetup group that hosts technology meetups for Scrum Masters and Agile and Lean Coaches once a month.
+
+<br />
+About Ammeon
+<br />
+Ammeon is an Irish owned Training, Consulting and IT Professional Services company. From Understanding the Fundamentals of Agile-Lean, to Operating IT Software in Production, our training services are designed to improve and fast-track your organisation's journey. We can custom-designed our courses to meet our client's specific needs and provide coaching assistance to help them integrate new processes and technologies into their working environment. Ammeon is listed on Enterprise Ireland's Lean Service Providers list and also on their Lean Education Directory.
+"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/007-Rob-Healy.mp3
+   date: Thu, 15 Nov 2018 04:30:54 GMT
+   duration: 50:52
+   length: 42763847
+   transcript: "Guest-Rob-Healy-Agile-Lean"
 
  - title: "Our CI/CD pipeline and why it's awesome"
    subtitle: "The CI/CD pipeline at Medit and why it makes us better"
    summary: "What is CI/CD, how we use it at Medit and how it makes us better"
+   encoded: "What is CI/CD, how we use it at Medit and how it makes us better"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/008-CI-CD-Pipeline.mp3
    date: Thu, 19 Nov 2018 04:30:54 GMT
    duration: 24:01
@@ -19,6 +39,7 @@
  - title: "QT: Jupyter notebooks and IJavascript"
    subtitle: "Jupyter notebooks aren't just for Machine Learning (ML)/Artificial Intelligence (AI), and using javascript with them"
    summary: "QT: How I use Jupyter notebooks, and how to use javascript with them -- more about Jupyter here: https://jupyter.org/  and more about IJavascript here: http://n-riesco.github.io/ijavascript/"
+   encoded: "QT: How I use Jupyter notebooks, and how to use javascript with them -- more about Jupyter here: https://jupyter.org/  and more about IJavascript here: http://n-riesco.github.io/ijavascript/"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-006-Jupyter-Notebooks-and-ijavascript.mp3
    date: Thu, 15 Nov 2018 04:30:54 GMT
    duration: 10:19
@@ -28,6 +49,7 @@
  - title: "QT: Speed Kills"
    subtitle: "A quick take on why moving to fast can be a problem."
    summary: "A startup needs to move quickly, but sometimes we sometimes try to move so vast that we cost ourselves more time fixing what we broke."
+   encoded: "A startup needs to move quickly, but sometimes we sometimes try to move so vast that we cost ourselves more time fixing what we broke."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-005-Speed-Kills.mp3
    date: Tue, 14 Nov 2018 04:46:54 GMT
    duration: 7:27
@@ -37,6 +59,7 @@
  - title: "QT: Changing to a delivery mindset"
    subtitle: "Quick take on changing your mindset from development to delivery."
    summary: "We changed our mindset to be more deliver focused and had good results.  We've come a long way, and still have a long way to go."
+   encoded: "We changed our mindset to be more deliver focused and had good results.  We've come a long way, and still have a long way to go."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-004-Delivery-Mindset.mp3
    date: Tue, 14 Nov 2018 04:45:54 GMT
    duration: 15:05
@@ -46,6 +69,7 @@
  - title: "QT: Why Medit chose Native Mobile Applications over a hybrid like React Native"
    subtitle: "We chose native mobile applications at Medit, what would you choose?"
    summary: "QT: What would you chose native mobile applications or a hybrid app like React Native? We chose native this episode explains my reasoning."
+   encoded: "QT: What would you chose native mobile applications or a hybrid app like React Native? We chose native this episode explains my reasoning."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-003-Native-Apps.mp3
    date: Tue, 13 Nov 2018 04:45:54 GMT
    duration: 8:16
@@ -55,6 +79,7 @@
  - title: "QT: Why Medit chose MongoDB"
    subtitle: "We chose MongoDB at Medit, what would you choose?"
    summary: "QT: https://medit.online chose MongoDB as our main datastore?"
+   encoded: "QT: https://medit.online chose MongoDB as our main datastore?"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-002-Mongodb.mp3
    date: Sun, 11 Nov 2018 11:11:13 GMT
    duration: 7:43
@@ -64,6 +89,7 @@
  - title: "QT: Why is Medit planning on using Vue.js over Reactjs"
    subtitle: "Vue.js is the right one for us, what would you choose?"
    summary: "QT: https://medit.online is planning to use vue.js over Reactjs, what would you choose?"
+   encoded: "QT: https://medit.online is planning to use vue.js over Reactjs, what would you choose?"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-001-Vue-over-React.mp3
    date: Sun, 11 Nov 2018 11:11:12 GMT
    duration: 5:55
@@ -73,6 +99,7 @@
  - title: "QT: What is a Quick Take?"
    subtitle: Introduction to my quick takes
    summary: "QT: Quick takes are short bitsized segments of content based around a single topic. Find out about my reasoning here."
+   encoded: "QT: Quick takes are short bitsized segments of content based around a single topic. Find out about my reasoning here."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-What-Is-It.mp3
    date: Sun, 11 Nov 2018 11:11:11 GMT
    duration: 3:57
@@ -82,6 +109,7 @@
  - title: Dublin Indie Hackers no. 3 - with Courtland Allen and John Collison @ Stripe
    subtitle: Takeaways from a Fireside Chat with Indie Hackers founder Courtland Allen and Stripe co-founder John Collison
    summary: "The biggest takeaways I hade from Indie Hackers meetup with Courtland Allen and Stripe co-founder John Collison."
+   encoded: "The biggest takeaways I hade from Indie Hackers meetup with Courtland Allen and Stripe co-founder John Collison."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/006-Dave-Albert-Show.mp3
    date: Fri, 09 Nov 2018 05:14:00 GMT
    duration: 21:24
@@ -91,6 +119,7 @@
  - title: National Analytics Conference Ireland, and AWS User group.
    subtitle: Talking about the search for a new data person, story telling and Terraform.
    summary: "This episode I talk about attending the National Analytics Conference Ireland where I'm looking for a new data science/ML/AI type, and an AWS user group meetup where I fell in love with Terraform."
+   encoded: "This episode I talk about attending the National Analytics Conference Ireland where I'm looking for a new data science/ML/AI type, and an AWS user group meetup where I fell in love with Terraform."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/005-Dave-Albert-Show.mp3
    date: Tue, 21 Nov 2017 09:10:00 GMT
    duration: 34:07
@@ -100,6 +129,7 @@
  - title: I am back, NDRC Accelerator, Startups are hard
    subtitle: I am finally back and some of the struggles we have been through.
    summary: "This episode I talk about the challenges we have had, and the NDRC accelerator program that we have been through. I also talk a bit about the agile challenges and quirks of AWS credits and how Azure credits are very compelling."
+   encoded: "This episode I talk about the challenges we have had, and the NDRC accelerator program that we have been through. I also talk a bit about the agile challenges and quirks of AWS credits and how Azure credits are very compelling."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/004-Dave-Albert-Show.mp3
    date: Tue, 21 Nov 2017 09:00:00 GMT
    duration: 18:26
@@ -109,6 +139,7 @@
  - title: User Productivity Tools We Use
    subtitle: User Productivity Tools We Use
    summary: "This episode I explain our decisions to choose different user productivity tools."
+   encoded: "This episode I explain our decisions to choose different user productivity tools."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/003-Dave-Albert-Show.mp3
    date: Tue, 11 Apr 2017 14:05:00 GMT
    duration: 23:26
@@ -118,6 +149,7 @@
  - title: Choosing Digital Ocean over AWS
    subtitle: Choosing Digital Ocean over AWS
    summary: "This episode I explain the decision to choose Digital Ocean over Amazon AWS."
+   encoded: "This episode I explain the decision to choose Digital Ocean over Amazon AWS."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/002-Dave-Albert-Show.mp3
    date: Sat, 08 Apr 2017 07:10:00 GMT
    duration: 23:58
@@ -127,6 +159,7 @@
  - title: Hello World, being a CTO and Co-Founder
    subtitle: An introduciton to me, One15, and this podcast.
    summary: "This episode I introduce myself, One15 and the podcast."
+   encoded: "This episode I introduce myself, One15 and the podcast."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/001-Dave-Albert-Show.mp3
    date: Sat, 08 Apr 2017 07:01:00 GMT
    duration: 11:46

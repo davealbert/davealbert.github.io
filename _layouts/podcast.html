@@ -6,7 +6,16 @@ layout: page
     <h2>
         {{ page.subtitle }}
     </h2>
+    {{ if page.image }}
+    <div>
+    <img src="{{ page.image }}" alt="{{ page.subtitle }}" style="height: 150px;"/>
+    <p></p>
+    </div>
+    {{ endif }}
+
     {{ page.label }}
+
+    <br /><br />
 
     <div class="podcast-episode">
         <i>{{ page.date }}</i><br />
@@ -16,8 +25,15 @@ layout: page
         </audio>
     </div>
 
-    &nbsp;
 
+    <a href="https://open.spotify.com/show/4J0VmigjL5H5kXqDYQENcF?si=vH63eQ2kRCWAVi5TGuBk_g">Spotify</a> <b>|</b>
+    <a href="https://itunes.apple.com/us/podcast/cto-and-co-founder-talk-with-dave-albert/id1247392672">iTunes</a> <b>|</b>
+    <a href="https://www.stitcher.com/podcast/dave-albert-3/cto-and-cofounder-talk-with-dave-albert">Sticher</a> <b>|</b>
+    <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I5xrkrvr34yc3b7zbcc7hysdm4y?t%3DCTO_and_Co-Founder_Talk_with_Dave_Albert%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play</a> <b>|</b>
+    <a href="https://player.fm/series/cto-and-co-founder-talk-with-dave-albert">Player.fm</a> <b>|</b>
+    <a href="https://mytuner-radio.com/podcasts/cto-and-co-founder-talk-with-dave-albert-dave-albert-1247392672">MyTuner Radio</a>
+
+    &nbsp;
 
     <div>
         <h3>
