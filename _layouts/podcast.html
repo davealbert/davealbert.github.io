@@ -6,12 +6,13 @@ layout: page
     <h2>
         {{ page.subtitle }}
     </h2>
-    {{ if page.image }}
-    <div>
-    <img src="{{ page.image }}" alt="{{ page.subtitle }}" style="height: 150px;"/>
-    <p></p>
-    </div>
-    {{ endif }}
+    {% if page.image %}
+        <div>
+            <p>
+            <img src="{{ page.image }}" alt="{{ page.subtitle }}" style="height: 150px;"/>
+            </p>
+        </div>
+    {% endif %}
 
     {{ page.label }}
 
