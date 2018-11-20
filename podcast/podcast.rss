@@ -26,6 +26,8 @@
             <itunes:subtitle>{{ episode.subtitle }}</itunes:subtitle>
             <content:encoded><![CDATA[{{ episode.summary }} 
 
+<br />
+<br />
 <br />Email: podcast@dave-albert.com
 <br />Twitter: https://twitter.com/dave_albert
 <br />Instagram: https://www.instagram.com/dave.albert/
