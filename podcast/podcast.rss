@@ -24,12 +24,8 @@
             <title>{{ episode.title }}</title>
             <itunes:author>Dave Albert</itunes:author>
             <itunes:subtitle>{{ episode.subtitle }}</itunes:subtitle>
-            <content:encoded><![CDATA[{{ episode.summary }} <br /> <br /> <br />Email: podcast@dave-albert.com <br />Twitter: https://twitter.com/dave_albert <br />Instagram: https://www.instagram.com/dave.albert/ <br />Websites: https://dave-albert.com | https://medit.online]]></content:encoded> <itunes:summary><![CDATA[{{ episode.summary }} 
-
-Email: podcast@dave-albert.com
-Twitter: https://twitter.com/dave_albert
-Instagram: https://www.instagram.com/dave.albert/
-Websites: https://dave-albert.com | https://medit.online]]></itunes:summary>
+            <content:encoded><![CDATA[{{ episode.summary }} <br /> <br /> <br />Email: podcast@dave-albert.com <br />Twitter: https://twitter.com/dave_albert <br />Instagram: https://www.instagram.com/dave.albert/ <br />Websites: https://dave-albert.com | https://medit.online]]></content:encoded>
+            <itunes:summary><![CDATA[{{ episode.summary }} Email: podcast@dave-albert.com Twitter: https://twitter.com/dave_albert Instagram: https://www.instagram.com/dave.albert/ Websites: https://dave-albert.com | https://medit.online]]></itunes:summary>
             <itunes:image href="https://dave-albert.com/podcast/podcast-image300x300.jpg"/>
             <enclosure length="{{ episode.length }}" type="audio/mp3" url="https://dts.podtrac.com/redirect.mp3/{{ episode.mp3 }}"/>
             <guid>{{ episode.mp3 }}</guid>
