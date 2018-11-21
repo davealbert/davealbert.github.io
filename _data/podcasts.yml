@@ -1,3 +1,13 @@
+ - title: "CosmosDB in Azure, Yes, No, Maybe"
+   subtitle: "We wanted to use CosmosDB, It won't work ... Maybe it will"
+   summary: "After attending an Azure meetup, I have new information that may make using CosmosDB possible and attractive."
+   encoded: "After attending an Azure meetup, I have new information that may make using CosmosDB possible and attractive."
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/010-cosmosdb-yes-no-maybe.mp3
+   date: Thu, 22 Nov 2018 04:30:54 GMT
+   duration: 29:10
+   length: 28003682
+   transcript: "010"
+
  - title: "Guest Dermot Casey | NDRC, Startups, Accelerator Programmes"
    subtitle: "Dermot Casey and I discussing the NDRC, startups and accelerator programmes"
    summary: "Dermot sources startup investment opportunities and with cash and acceleration mentor them through to securing early customers and follow-on investment.
@@ -11,7 +21,7 @@
    You can find Dermot on LinkedIn at https://www.linkedin.com/in/dermotcasey/
    "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/009-Dermot-Casey.mp3
-   date: Mon, 21 Nov 2018 04:30:54 GMT
+   date: Wed, 21 Nov 2018 04:30:54 GMT
    duration: 46:47
    length: 34500389
    transcript: "009"
