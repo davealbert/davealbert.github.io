@@ -35,4 +35,3 @@
         </item>{% endfor %}
     </channel>
 </rss>
-
