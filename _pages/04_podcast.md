@@ -26,7 +26,7 @@ Where I discuss what it’s like being a first-time CTO and Co-Founder. The joys
         <b>{{ episode.title }}</b><br />
         {{ episode.subtitle }}<br />
         <i>{{ episode.date }}</i><br />
-        <audio src="{{ episode.mp3 }}" controls="controls">
+        <audio src="https://dts.podtrac.com/redirect.mp3/{{ episode.mp3 }}" controls="controls" preload="none">
             Your browser does not support the audio element.
         </audio>
         <p>{{ episode.summary }}</p>
