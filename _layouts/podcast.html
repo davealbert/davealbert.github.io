@@ -21,7 +21,7 @@ layout: page
     <div class="podcast-episode">
         <i>{{ page.date }}</i><br />
         <i>duration: {{ page.duration }}</i>
-        <audio src="{{ page.source }}" controls="controls">
+        <audio src="https://dts.podtrac.com/redirect.mp3/{{ page.source }}" controls="controls" preload="none">
             Your browser does not support the audio element.
         </audio>
     </div>
