@@ -1,3 +1,13 @@
+ - title: "Guest Jake Cahill| Web Scrapping Automation Bots and AI"
+   subtitle: "Is web scrapping ethical, how can it go wrong?"
+   summary: "Jake and I discuss technology using in web scrapping and scrapping prevention using AI/ML | https://twitter.com/tech_ccs | https://www.linkedin.com/in/jake-cahill-maine/ | https://www.ccstechme.com/ | https://dev.to/kaelscion"
+   encoded: "Jake and I discuss technology using in web scrapping and scrapping prevention using AI/ML <br /> https://twitter.com/tech_ccs <br /> https://www.linkedin.com/in/jake-cahill-maine/ <br /> https://www.ccstechme.com/ <br /> https://dev.to/kaelscion"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/011-Jake-Cahill.mp3
+   date: Thu, 23 Nov 2018 04:30:54 GMT
+   duration: 51:24
+   length: 49339662
+   transcript: "011"
+
  - title: "CosmosDB in Azure, Yes, No, Maybe"
    subtitle: "We wanted to use CosmosDB, It won't work ... Maybe it will"
    summary: "After attending an Azure meetup, I have new information that may make using CosmosDB possible and attractive."
