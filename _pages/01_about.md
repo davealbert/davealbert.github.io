@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+shorttitle: ABOUT
 permalink: /about/
 show: true
 ---

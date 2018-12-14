@@ -1,6 +1,8 @@
 <header class="site-header" role="banner">
 	<div class="wrapper">
-		<a class="site-title" href="/">Dave&#39;s Tech Ramblings</a>
+		<a class="site-title" href="/">
+            <img src="/images/dave-logo.png" alt="Dave Albert, CTO and Co-founder Podcast" />
+        </a>
 		<nav class="site-nav">
 			<span class="menu-icon">
 				<svg viewBox="0 0 18 15" width="18px" height="15px">
@@ -13,6 +15,7 @@
 				<div class="container">
 					<nav>
 						<ul>
+                            <li class={% if page.url == '/' %}"active"{% endif %}><a href="/">HOME</a></li>
 							{% for pg in site.pages %} {% if pg.title and pg.show %}
                                 {% if pg.shorttitle %}
                                 <li class={% if pg.url == page.url %}"active"{% endif %}><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.shorttitle }}</a></li>
@@ -20,7 +23,7 @@
                                 <li class={% if pg.url == page.url %}"active"{% endif %}><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title }}</a></li>
                                 {% endif %}
 							{% endif %} {% endfor %}
-                            <li class={% if '/blog/' == page.url %}"active"{% endif %}><a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a></li>
+                            <li class={% if '/blog/' == page.url %}"active"{% endif %}><a href="{{ '/blog' | prepend: site.baseurl }}">BLOG</a></li>
 						</ul>
 					</nav>
 				</div>

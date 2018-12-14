@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+shorttitle: CONTACT
 permalink: /contact/
 show: true
 ---

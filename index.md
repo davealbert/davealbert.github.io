@@ -1,5 +1,6 @@
 ---
 layout: default
+shorttitle: HOME
 showcount: true
 ---
 

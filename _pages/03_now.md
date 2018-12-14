@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+shorttitle: NOW
 permalink: /now/
 show: true
 ---
