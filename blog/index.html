@@ -3,6 +3,8 @@ layout: default
 title: Blog | Dave's Tech Ramblings
 ---
 
-{% include blog-feed.html %}
+<div class="a-page">
+    {% include blog-feed.html %}
 
-<p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p>subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>

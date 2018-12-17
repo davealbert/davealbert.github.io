@@ -13,7 +13,9 @@ body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
 }
 
 body {
-    font: 400 16px/1.5 helvetica neue, Helvetica, Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    //font: 400 16px/1.5 helvetica neue, Helvetica, Arial, sans-serif;
     color: #111;
     background-color: #fdfdfd;
     -webkit-text-size-adjust: 100%;
@@ -158,7 +160,8 @@ pre>code {
     margin-top: 14px;
     border-bottom: 1px solid #e8e8e8;
     min-height: 55.95px;
-    position: relative
+    position: relative;
+    font-family: 'Roboto', sans-serif;
 }
 
 .si te-title {
@@ -195,6 +198,42 @@ pre>code {
 
 .site-nav .page-link:not(:last-child) {
     margin-right: 20px
+}
+
+.sub-heading {
+    font-size: 38px;
+    font-weight: 600;
+}
+
+.ink {
+    color: #4D4D4D;
+}
+
+.green {
+    color: #2DCCBC;
+}
+
+.inside-container {
+    padding: 4em;
+}
+
+a.link-text, a:visited.link-text {
+    color: #000000;
+}
+
+.poppins20 {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.browse-more {
+    margin: auto;
+    width: 170px;
+    text-align: center;
+}
+
+.a-page {
+    margin: 4em;
 }
 
 @media screen and (max-width:600px) {
@@ -646,9 +685,41 @@ pre>code {
 body {
   line-height: 1.9;
 }
-.main-container {
-  margin: 40px 10%;
+//.main-container {
+  //margin: 40px 10%;
+//}
+
+.float-left {
+    float:left;
 }
+
+.clear {
+    clear: both;
+}
+
+.hero {
+    background: url("/images/podcastbg.png") no-repeat ;
+    background-size: cover;
+    min-height: 45em;
+}
+.hero-text {
+    color: #ffffff;
+    padding: 10% 0;
+    margin-left: 70px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero-text .hero-title H1 {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.hero-text .hero-subtitle H2 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
 .img-max400 {
   max-width: 400px;
 }

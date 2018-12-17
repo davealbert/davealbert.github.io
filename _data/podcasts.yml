@@ -7,6 +7,7 @@
    duration: "1:00:58"
    length: 50131069
    transcript: "015"
+   image: /images/guests/Alan-Costell.jpg
 
  - title: "QT: Starting with purpose"
    subtitle: "Getting started is the most important thing, also focus on the purpose"
@@ -37,6 +38,7 @@
    duration: 46:37
    length: 28789144
    transcript: "014"
+   image: /images/guests/Will-Youmans.jpg
 
  - title: "Guest Dave Denham | Agile, Lean, Scrum, Kanban"
    subtitle: "What is a conference MVP?"
@@ -47,6 +49,7 @@
    duration: 1:06:26
    length: 63776390
    transcript: "013"
+   image: /images/guests/Dave-Denham.jpg
 
  - title: "Guest Ed Burke | Starting up without a CTO"
    subtitle: "Starting without a CTO and using Facebook groups to validate a startup idea"
@@ -57,6 +60,7 @@
    duration: 41:12
    length: 39551058
    transcript: "012"
+   image: /images/guests/Ed-Burke.jpg
 
  - title: "Guest Jake Cahill | Web Scrapping Automation Bots and AI"
    subtitle: "Is web scrapping ethical, how can it go wrong?"
@@ -67,6 +71,7 @@
    duration: 51:24
    length: 49339662
    transcript: "011"
+   image: /images/guests/Jake-Cahill.png
 
  - title: "CosmosDB in Azure, Yes, No, Maybe"
    subtitle: "We wanted to use CosmosDB, It won't work ... Maybe it will"
@@ -87,6 +92,7 @@
    duration: 46:47
    length: 34500389
    transcript: "009"
+   image: /images/guests/Dermot-Casey.jpg
 
  - title: "Guest Rob Healy | Agile/Lean Startups"
    subtitle: "Rob Healy and I discussing agile and lean in startups."
@@ -97,6 +103,7 @@
    duration: 50:52
    length: 42763847
    transcript: "Guest-Rob-Healy-Agile-Lean"
+   image: /images/guests/Rob-Healy.jpg
 
  - title: "Our CI/CD pipeline and why it's awesome"
    subtitle: "The CI/CD pipeline at Medit and why it makes us better"

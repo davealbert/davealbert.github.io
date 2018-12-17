@@ -1,0 +1,25 @@
+{% for episode in site.data.podcasts limit:30 %}
+        <!--<img src="{{ episode.image }}" alt="" style="width:340px;height:225px" />-->
+        <div class="float-left">
+            <a class="float-left" href="/podcast/episode/{{ episode.transcript }}">
+                {% if episode.image %}
+                <div class="float-left" style="width:340px;height:225px;background: #000000 url({{ episode.image }}) no-repeat center; background-size: contain; margin: 0 70px 0 0;"></div>
+                {% else %}
+                <div class="float-left" style="width:340px;height:225px;background: #000000 url(/images/Podcast-Image-1400x1400-676x676.jpg) no-repeat center; background-size: contain; margin: 0 70px 0 0;"></div>
+                {% endif %}
+            </a>
+            <a class="float-left link-text" href="/podcast/episode/{{ episode.transcript }}">{{ episode.title }}</a>
+        </div>
+        <div class="clear"></div>
+		<time>{{ episode.date | date: "%b %-d, %Y" }}</time>
+        <p style="margin-bottom: 10px;"></p>
+{% endfor %}
+
+
+<div class="width100">
+    <div class="browse-more">
+        <a href="/cto-and-co-founder-talk-with-dave-albert/" class="link-text poppins20">BROWSE MORE > ></a>
+    </div>
+</div>
+
+
