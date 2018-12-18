@@ -31,6 +31,15 @@ showcount: true
     <div>
     {% include partial-podcast-feed.html %}
     </div>
+
+    <div class="mailchimp-form-container">
+    {% include partial-instagram-feed.html %}
+    </div>
+
+    <div class="mailchimp-form-container">
+    {% include partial-mailchimp-form.html %}
+    </div>
+
 </div>
 
 <!--Hi, I'm Dave Albert the CTO of [Medit](https://medit.online) and the host of [CTO and Co-Founder Talk with Dave Albert](/cto-and-co-founder-talk-with-dave-albert)-->
@@ -43,11 +52,8 @@ showcount: true
 
 <!--<i>3rd December 2018</i>-->
 
-<!--&nbsp;-->
 
-<!------->
 
-<!--&nbsp;-->
 
 <!--If you want more of me you can find me on the following platforms:-->
 
@@ -60,7 +66,5 @@ showcount: true
 <!--Visits to this page: <span style="font-weight: bold;" id="counter">???</span> -- <i>90's stlye</i> :P <i>(built with an AWS Lambda)-->
 
 
-<!--&nbsp;-->
 
-<!------->
 

@@ -21,6 +21,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dave-albert.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dave_albert
 github_username:  davealbert
+instagram_base: https://api.instagram.com/oembed/?url=http://instagr.am/p/
+instagram_items:
+    - BrIDJu4AvR_
+    - BqOvg1tgguy
+    - BoRZpaMgK5S
+    - BiHpQs7AjV7
 
 # Build settings
 markdown: kramdown

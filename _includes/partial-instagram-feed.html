@@ -1,0 +1,43 @@
+<script>
+    var instagram_urls =[];
+{% for item in site.instagram_items %}
+   instagram_urls.push("{{ site.instagram_base }}{{ item }}");
+{% endfor %}
+
+    window.shouldrun = function () {
+        var containers = $('.instagram-post');
+        var count = 0;
+        instagram_urls.map((url) => {
+            var container = containers[count++];
+            $.ajax({ url: url })
+            .done((res) => {
+                $( container ).html(res.html);
+            });
+        });
+
+        setTimeout(() => {
+            $('.instagram-post').removeClass('hidden');
+            $('.loader').addClass('hidden');
+        }, 2500);
+    };
+</script>
+
+<div class="container">
+    <div class="insta-button loader">
+        <img src="/images/loader.gif" style="max-height: 100px;" alt="" />
+    </div>
+    {% for item in site.instagram_items %}
+        <div class="float-left instagram-post hidden">
+            {{ item }}
+        </div>
+    {% endfor %}
+</div>
+
+<p class="clear"></p>
+
+<div class="insta-button">
+    <a href="https://www.instagram.com/dave.albert/" target="_blank">
+        <img src="images/follow-instagram-button.png" alt="" />
+    </a>
+</div>
+

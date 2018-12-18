@@ -1,4 +1,4 @@
-{% for episode in site.data.podcasts limit:30 %}
+{% for episode in site.data.podcasts limit:3 %}
         <!--<img src="{{ episode.image }}" alt="" style="width:340px;height:225px" />-->
         <div class="float-left">
             <a class="float-left" href="/podcast/episode/{{ episode.transcript }}">
@@ -8,7 +8,14 @@
                 <div class="float-left" style="width:340px;height:225px;background: #000000 url(/images/Podcast-Image-1400x1400-676x676.jpg) no-repeat center; background-size: contain; margin: 0 70px 0 0;"></div>
                 {% endif %}
             </a>
-            <a class="float-left link-text" href="/podcast/episode/{{ episode.transcript }}">{{ episode.title }}</a>
+            <div class="float-left two-thirds">
+                <p class="clear">
+                    <a class="link-text" href="/podcast/episode/{{ episode.transcript }}">{{ episode.title }}</a>
+                </p>
+                <p class="clear">
+                {{ episode.summary }}
+                </p>
+            </div>
         </div>
         <div class="clear"></div>
 		<time>{{ episode.date | date: "%b %-d, %Y" }}</time>

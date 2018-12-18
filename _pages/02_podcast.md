@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CTO and Co-Founder Talk with Dave Albert
-shorttitle: PODCAST 
+shorttitle: EPISODES 
 permalink: /cto-and-co-founder-talk-with-dave-albert/
 show: true
 ---

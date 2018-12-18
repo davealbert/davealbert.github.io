@@ -4,5 +4,9 @@ $(() => {
         console.log(res);
         $('#counter').html(res);
     });
+
+    if (window.shouldrun) {
+        window.shouldrun();
+    }
 });
 
