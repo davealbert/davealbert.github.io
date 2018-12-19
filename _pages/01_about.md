@@ -15,3 +15,7 @@ I love all things tech and digital.  I have been in love with computers since I 
 The reason for this site is I want to discuss some of the technology I use, want to use, or really don’t want to use. I also hope to improve my writing style.  😉
 
 Thanks for reading!
+
+<div>
+{% include disqus.html %}
+</div>

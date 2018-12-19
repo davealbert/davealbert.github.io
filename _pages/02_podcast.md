@@ -36,5 +36,13 @@ Where I discuss what it’s like being a first-time CTO and Co-Founder. The joys
 </div>
 
 <div>
-{% include disqus.html %}
+    <div>
+        <div class="mailchimp-form-container">
+        {% include partial-mailchimp-form.html %}
+        </div>
+    </div>
+
+    <div>
+        {% include disqus.html %}
+    </div>
 </div>
