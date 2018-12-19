@@ -645,7 +645,7 @@ body {
 }
 
 .hero {
-    background: url("/images/podcastbg.png") no-repeat ;
+    background: url("/images/podcastbg.png") no-repeat bottom;
     background-size: cover;
     min-height: 45em;
 }
@@ -733,7 +733,13 @@ nav {
     border-bottom: 1px solid #ccc;
 }
 
-
+.browse-underline {
+    border-top: #89888838 solid 1px;
+    width: 250px;
+    top: -16px;
+    position: relative;
+    left: 37px;
+}
 
 // Mobile Phone
 @media screen and (max-width:600px) {

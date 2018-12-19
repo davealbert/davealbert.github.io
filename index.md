@@ -26,6 +26,7 @@ showcount: true
     <div class="sub-heading">
         <span class="ink">BROWSE</span>
         <span class="green">EPISODES</span>
+        <div class="browse-underline"></div>
     </div>
 
     <div>
