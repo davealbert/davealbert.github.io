@@ -241,6 +241,12 @@ a.link-text, a:visited.link-text {
     margin-top: 40px;
 }
 
+.mailchimp-form-container .container {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
 .green-button {
     background-color: #2DCCBC !important;
     color: black !important;
@@ -256,10 +262,9 @@ a.link-text, a:visited.link-text {
 }
 
 .instagram-post {
-    //border: 1px solid black;
     padding: 1em;
     margin: 1em;
-    //max-width: 20%;
+    height: 700px;
 }
 
 .insta-button {

@@ -12,13 +12,14 @@
             $.ajax({ url: url })
             .done((res) => {
                 $( container ).html(res.html);
+                <!--$( container ).html('TEST TEXT');-->
             });
         });
 
         setTimeout(() => {
             $('.instagram-post').removeClass('hidden');
             $('.loader').addClass('hidden');
-        }, 2500);
+        }, 4000);
     };
 </script>
 
