@@ -744,6 +744,12 @@ nav {
 
 // Mobile Phone
 @media screen and (max-width:600px) {
+    nav ul > li {
+        float: left;
+        padding: 0 0;
+        margin-top: 20px;
+    }
+
     .hero-text {
         padding: 10% 0;
         margin-left: 10px;
@@ -831,6 +837,12 @@ nav {
 
 //Tablet
 @media screen and (max-width:800px) {
+    nav ul > li {
+        float: left;
+        padding: 0 1.4em;
+        margin-top: 0;
+    }
+
     .hero-text {
         padding: 10% 0;
         margin-left: 10px;
