@@ -744,6 +744,10 @@ nav {
 
 // Mobile Phone
 @media screen and (max-width:600px) {
+    .two-thirds {
+        max-width: 86%;
+    }
+
     nav ul > li {
         float: left;
         padding: 0 0;
