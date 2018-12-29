@@ -8,23 +8,40 @@
 
 </head>
 <body>
-    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <div id="app">
+        <h1>{{ message }}</h1>
+        <h3>{{ otherThing }}</h3>
         <ol>
-            <!--
-                Now we provide each todo-item with the todo object
-                it's representing, so that its content can be dynamic.
-                We also need to provide each component with a "key",
-                which will be explained later.
-            -->
             <todo-item
-             v-for="item in arr"
-             v-bind:todo="item"
-             v-bind:thing="item.id + 5"
-             v-bind:key="item.id">
+                v-for="aclass in classes"
+                v-bind:name="aclass.name"
+                v-bind:id="aclass.id + 15"
+                v-bind:key="aclass.id">
             </todo-item>
         </ol>
+        <ol>
+            <todo-item
+                v-for="item in items"
+                v-bind:name="item.name"
+                v-bind:id="item.id + 5"
+                v-bind:key="item.id">
+            </todo-item>
+        </ol>
+
+        <p>
+            <button v-on:click="say('hi')">Say Hi</button>
+        </p>
+
+        <p>
+            <button v-on:click="updateComponentData('child1', true)">Click me</button>
+            <child ref="child1"></child>
+        </p>
+        <p>
+            <button v-on:click="updateComponentData('child2')">Click me</button>
+            <child ref="child2"></child>
+        </p>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
     <script src="./my-vue.js"></script>
 </body>
 </html>
