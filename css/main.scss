@@ -747,6 +747,78 @@ nav {
     left: 37px;
 }
 
+.about-container {
+    background: url("/images/about-bg.jpg") no-repeat bottom;
+    background-color: #2c2c2c;
+    color: #ffffff;
+    padding: 80px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.about-dave {
+    width: 420px;
+}
+
+.about-text {
+    padding: 10px 0 0 5%;
+    width: 60%;
+}
+
+.about-button-container {
+    max-width: 90%;
+}
+
+.about-button {
+    padding: 10px 10px 0 0;
+    max-width: 47%;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.7); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+  border-radius: 14px;
+  max-width: 650px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
 // Mobile Phone
 @media screen and (max-width:600px) {
     html {
@@ -897,4 +969,32 @@ nav {
     .post-title {
         font-size: 36px
     }
+
+    .w30 {
+        width: 100%;
+    }
+
+    .about-dave {
+        width: 100%;
+        text-align: center;
+    }
+
+    .about-text {
+        padding: 20px;
+        width: 93%;
+    }
+
+    .about-container {
+        background: url("/images/about-bg.jpg") no-repeat bottom;
+        background-color: #2c2c2c;
+        color: #ffffff;
+        padding: 0 20px 0 20px;
+    }
+
+    .about-button {
+        padding: 10px 10px 0 0;
+        max-width: 90%;
+    }
 }
+
+

@@ -8,5 +8,13 @@ $(() => {
     if (window.shouldrun) {
         window.shouldrun();
     }
+
+    $('.close').on('click', function(event) {
+        $('.modal').fadeOut();
+    });
+
+    $('.open-modal').on('click', function(event) {
+        $('.modal').fadeIn();
+    });
 });
 
