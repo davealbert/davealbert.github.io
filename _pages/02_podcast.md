@@ -84,7 +84,7 @@ contentFullWidth: true
         </div>
     </div>
 
-    <div>
+    <div class="episodes-list">
         <div>
             <div class="mailchimp-form-container">
                 {% include partial-mailchimp-form.html %}
