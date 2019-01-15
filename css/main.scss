@@ -722,22 +722,22 @@ nav {
     }
 }
 
-.podcast-episode {
-    i {
-        font-size: 12px;
-        color: #666;
-        padding-left: 15px;
-    }
+//.podcast-episode {
+    //i {
+        //font-size: 12px;
+        //color: #666;
+        //padding-left: 15px;
+    //}
 
-    p {
-        font-size: 12px;
-        color: #666;
-        padding-left: 15px;
-    }
+    //p {
+        //font-size: 12px;
+        //color: #666;
+        //padding-left: 15px;
+    //}
 
-    margin-bottom: 20px;
-    border-bottom: 1px solid #ccc;
-}
+    //margin-bottom: 20px;
+    //border-bottom: 1px solid #ccc;
+//}
 
 .browse-underline {
     border-top: #89888838 solid 1px;
@@ -886,6 +886,118 @@ nav {
 .right {
     text-align: right;
 }
+
+.episodes-container {
+    background: url("/images/episodes-bg.jpg") no-repeat;
+    background-size: 100%;
+    background-color: #202022;
+    color: #ffffff;
+
+    .episodes-list {
+        padding: 77px;
+        .episode-items {
+            margin: 78px;
+            .title {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: 900;
+                line-height: normal;
+                font-size: 23px;
+                letter-spacing: 0.08em;
+
+                color: #FFFFFF;
+            }
+            .sub-title {
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: bold;
+                line-height: normal;
+                font-size: 20px;
+                letter-spacing: 0.08em;
+                margin-top: 20px;
+
+                color: #FFFFFF;
+            }
+            .date {
+                margin-top: 20px;
+                font-family: Roboto;
+                font-style: normal;
+                font-weight: bold;
+                line-height: normal;
+                font-size: 20px;
+                letter-spacing: 0.08em;
+            }
+
+            .audio {
+                margin-top: 20px;
+            }
+
+            .summary {
+                margin-top: 20px;
+            }
+
+            .more {
+                margin-bottom: 50px;
+                a, a:visited {
+                    color: #24ccbc;
+                }
+            }
+        }
+    }
+}
+
+.podcast-icons {
+    margin-top: 9px;
+    position: absolute;
+    right: 77px;
+    .podcast-icon {
+        float: left;
+        .icon {
+            margin-right: 26px;
+            float: left;
+            height: 29px;
+            width: 29px;
+        }
+
+        #spotify {
+            background: url('/images/spotify_icon.png') no-repeat;
+            background-size: 100%;
+        }
+
+        #itunes {
+            background: url('/images/itunes-icon.png') no-repeat;
+            background-size: 100%;
+        }
+
+        #stitcher {
+            background: url('/images/stitcher-icon.png') no-repeat;
+            background-size: 100%;
+        }
+
+        #google-play {
+            background: url('/images/google-play-icon.png') no-repeat;
+            background-size: 100%;
+        }
+
+        #player-fm {
+            background: url('/images/playerfm-icon.png') no-repeat;
+            background-size: 100%;
+        }
+
+        #mytuner {
+            background: url('/images/mytuner-icon.png') no-repeat;
+            background-size: 100%;
+        }
+    }
+}
+
+.player {
+    background-color: #ffffff52;
+    width: 300px;
+    border-radius: 40px;
+    padding: 20px;
+}
+
 // Mobile Phone
 @media screen and (max-width:600px) {
     html {
@@ -1062,6 +1174,30 @@ nav {
         padding: 10px 10px 0 0;
         max-width: 90%;
     }
-}
 
+    .podcast-icons {
+        margin-top: 9px;
+        width: 100%;
+        position: static;
+        .podcast-icon {
+            //float: left;
+            .icon {
+                margin-right: 26px;
+                float: left;
+                height: 29px;
+                width: 29px;
+            }
+        }
+    }
+    .episodes-container {
+        .episodes-list {
+            padding: 78px 10px; 
+
+            .episode-items {
+                width: 90%;
+                margin: 78px auto;
+            }
+        }
+    }
+}
 
