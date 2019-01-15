@@ -7,6 +7,9 @@
 //   "syntax-highlighting"
 
 // From theme: minima
+
+$my_green: #2DCCBC;
+
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
@@ -206,7 +209,7 @@ pre>code {
 }
 
 .green {
-    color: #2DCCBC;
+    color: $my_green;
 }
 
 .inside-container {
@@ -248,7 +251,7 @@ a.link-text, a:visited.link-text {
 }
 
 .green-button {
-    background-color: #2DCCBC !important;
+    background-color: $my_green !important;
     color: black !important;
     font-weight: 600 !important;
     font-family: 'Poppins', sans-serif;
@@ -696,7 +699,7 @@ body {
 
 /* Add a color to the active/current link */
 nav li.active a, nav li:hover a {
-    color: #2DCCBC;
+    color: $my_green;
     text-decoration: underline;
 }
 nav li.active a {
@@ -933,6 +936,10 @@ nav {
 
             .audio {
                 margin-top: 20px;
+                audio {
+                    border: 3px solid $my_green;
+                    border-radius: 40px;
+                }
             }
 
             .summary {
@@ -942,7 +949,7 @@ nav {
             .more {
                 margin-bottom: 50px;
                 a, a:visited {
-                    color: #24ccbc;
+                    color: $my_green;
                 }
             }
         }
