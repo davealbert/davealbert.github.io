@@ -16,7 +16,7 @@
             <itunes:name>Dave Albert</itunes:name>
             <itunes:email>podcast@dave-albert.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://dave-albert.com/podcast/podcast-image1400x1400.jpg"/>
+        <itunes:image href="https://dave-albert.com/podcast/podcast-image1400x1400b.jpg"/>
         <itunes:category text="Technology"></itunes:category>
         <itunes:category text="Business"></itunes:category>
         <itunes:explicit>yes</itunes:explicit>{% for episode in site.data.podcasts %}
