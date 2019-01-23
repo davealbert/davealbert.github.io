@@ -1,10 +1,20 @@
+ - title: "Kubernetes prevents downtime ... until it doesn't"
+   subtitle: "ACS, AKS, and our first significant downtime"
+   summary: "Differences between Azure Container Service (ACS), and Azure Kubernetes Service (AKS) and the first significant downtime we've had at medit with Kubernetes"
+   encoded: "Differences between Azure Container Service (ACS), and Azure Kubernetes Service (AKS) and the first significant downtime we've had at medit with Kubernetes"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/017-ACS-AKS-Downtime.mp3
+   date: Wed, 23 Jan 2019 04:30:54 GMT
+   duration: "31:58"
+   length: 30684472
+   transcript: "017"
+
  - title: "Back from the Holiday break"
    subtitle: "Some learnings from our company meetup, scaling down social media, CosmosDB"
    summary: "Some learnings from our company meetup, scaling down social media, CosmosDB. What if...? What to remove? Better us of my time, and some learnings of using CosmosDB in a new project."
    encoded: "Some learnings from our company meetup, scaling down social media, CosmosDB. What if...? What to remove? Better us of my time, and some learnings of using CosmosDB in a new project."
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/016-Back-From-Break.mp3
    date: Thu, 17 Jan 2019 04:30:54 GMT
-   duration: "31:58"
+   duration: "33:05"
    length: 31761135
    transcript: "016"
 
