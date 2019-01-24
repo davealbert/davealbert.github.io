@@ -1,3 +1,13 @@
+ - title: "Guests: Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health"
+   subtitle: "Anonymous support for your mental health from your own computer"
+   summary: "I sat down with Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health to discuss their services and mental health.  turn2me.org was founded in 2009 stemming from the very personal experiences of brothers Oisin and Diarmuid Scollard, who lost their brother to suicide in 2003. They had a vision to create a web space for people to share, discuss and offload personal problems, find support and get useful information.  Turn2Me provides a 3 tiered approach to supporting mental well-being - Self Help, support groups and Professional Support. Remain anonymous, express yourself and share your experiences without fear of recognition or judgement.  | https://turn2me.org/ | https://www.facebook.com/turn2me | https://twitter.com/turn2me"
+   encoded: "I sat down with Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health to discuss their services and mental health.  turn2me.org was founded in 2009 stemming from the very personal experiences of brothers Oisin and Diarmuid Scollard, who lost their brother to suicide in 2003. They had a vision to create a web space for people to share, discuss and offload personal problems, find support and get useful information.  <br /> Turn2Me provides a 3 tiered approach to supporting mental well-being - Self Help, support groups and Professional Support. Remain anonymous, express yourself and share your experiences without fear of recognition or judgement.  <br /> https://turn2me.org/ <br /> https://www.facebook.com/turn2me <br /> https://twitter.com/turn2me"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/018-Turn2me.mp3
+   date: Thu, 24 Jan 2019 04:07:54 GMT
+   duration: "45:32"
+   length: 33778449
+   transcript: "018"
+
  - title: "Kubernetes prevents downtime ... until it doesn't"
    subtitle: "ACS, AKS, and our first significant downtime"
    summary: "Differences between Azure Container Service (ACS), and Azure Kubernetes Service (AKS) and the first significant downtime we've had at medit with Kubernetes"
