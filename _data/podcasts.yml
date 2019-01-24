@@ -7,6 +7,7 @@
    duration: "45:32"
    length: 33778449
    transcript: "018"
+   image: /images/guests/turn2me.png
 
  - title: "Kubernetes prevents downtime ... until it doesn't"
    subtitle: "ACS, AKS, and our first significant downtime"
