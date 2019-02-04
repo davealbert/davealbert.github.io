@@ -1,7 +1,7 @@
 ---
 # wat
 ---
-// @import 
+// @import
 //   "base",
 //   "layout",
 //   "syntax-highlighting"
@@ -681,7 +681,7 @@ body {
 }
 .rounded-6px {
   border-radius: 6px;
-}    
+}
 .img-contact {
     height: 2em;
 }
@@ -1031,7 +1031,7 @@ nav {
     }
 
     .instagram-post {
-        padding: 0; 
+        padding: 0;
         margin: 0;
     }
     .a-page {
@@ -1124,7 +1124,7 @@ nav {
     }
 
     .instagram-post {
-        padding: 1px; 
+        padding: 1px;
         margin: 1px;
     }
     .a-page {
@@ -1185,6 +1185,31 @@ nav {
         max-width: 90%;
     }
 
+    .now-container {
+      height: 287px !important;
+      width:1238px !important;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: full;
+    position: relative;
+    text-align: center;
+    color: white;
+    }
+
+
+    .top-left {
+      position: absolute;
+        bottom: 20px;
+        right: 20px;
+        background-color: black;
+        color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+}
+
+
+
+
     .podcast-icons {
         margin-top: 9px;
         width: 100%;
@@ -1201,7 +1226,7 @@ nav {
     }
     .episodes-container {
         .episodes-list {
-            padding: 78px 10px; 
+            padding: 78px 10px;
 
             .episode-items {
                 width: 90%;
@@ -1210,4 +1235,3 @@ nav {
         }
     }
 }
-

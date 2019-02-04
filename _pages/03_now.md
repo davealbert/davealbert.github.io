@@ -1,10 +1,20 @@
 ---
 layout: page
-title: Now
+title:
 shorttitle: NOW
 permalink: /now/
 show: true
 ---
+
+<div class="now-container">
+<img src="/images/nowbanner.jpg" alt="" class="now-container" />
+<div class="top-left"> </div>
+<h1>NOW</h1>
+</div>
+
+
+
+
 
 Now
 What I’m doing now
