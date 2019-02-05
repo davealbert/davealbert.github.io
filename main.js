@@ -16,5 +16,6 @@ $(() => {
     $('.open-modal').on('click', function(event) {
         $('.modal').fadeIn();
     });
+
 });
 
