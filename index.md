@@ -8,9 +8,11 @@ showcount: true
 
 <div class="mySlides fade">
   <img src="images\podcastbg.png" style="width:100%">
-  <div class="text">CTO & CO-FOUNDER TALK</div>
-	<div class="subtext">	WITH DAVE ALBERT</div>
-	<div class="playbutton">
+  <div class="head1">CTO & CO-FOUNDER TALK</div>
+	<div class="subtext1">	WITH DAVE ALBERT</div>
+
+
+  <div class="playbutton">
  <a href="/cto-and-co-founder-talk-with-dave-albert/">
  <img src="/images/hero-button-image.png" alt="Play episodes now" />
  </a>
