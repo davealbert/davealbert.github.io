@@ -17,5 +17,26 @@ $(() => {
         $('.modal').fadeIn();
     });
 
+    var browserInfo = getBrowser();
+    $('.audio audio').each(function() {
+        var item = $(this);
+        var browser;
+        if (browserInfo && browserInfo.browser) {
+            browser = browserInfo.browser.toLowerCase();
+        }
+
+        //console.log(browser);
+        switch(browser) {
+            case 'chrome':
+                // code
+                item.css('border-radius',' 30px');
+                break;
+
+            default:
+                item.css('border-radius',' 10px');
+
+        }
+        item.css('border', '3px solid #2DCCBC');
+    });
 });
 

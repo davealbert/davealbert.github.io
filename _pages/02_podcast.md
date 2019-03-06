@@ -61,14 +61,6 @@ contentFullWidth: true
                         <audio src="https://dts.podtrac.com/redirect.mp3/{{ episode.mp3 }}" controls="controls" preload="none">
                             Your browser does not support the audio element.
                         </audio>
-                        <!--<audio id="player-{{ episode.transcript }}" src="https://dts.podtrac.com/redirect.mp3/{{ episode.mp3 }}" preload="none"></audio>-->
-                        <!--<div class="player"> -->
-                            <!--<button onclick="document.getElementById('player-{{ episode.transcript}}').play()">Play</button> -->
-                            <!--<button onclick="document.getElementById('player-{{ episode.transcript}}').pause()">Pause</button> -->
-                            <!--<button onclick="document.getElementById('player-{{ episode.transcript}}').volume += 0.1">Vol +</button> -->
-                            <!--<button onclick="document.getElementById('player-{{ episode.transcript}}').volume -= 0.1">Vol -</button> -->
-                            <!--<a href="https://dts.podtrac.com/redirect.mp3/{{ episode.mp3 }}" download="{{ episode.title }}" target="_blank" >Download</a> -->
-                        <!--</div>-->
                     </div>
 
                     <div class="summary">
