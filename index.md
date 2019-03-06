@@ -15,7 +15,7 @@ showcount: true
             </div>
             <div>
                 <a href="/cto-and-co-founder-talk-with-dave-albert/">
-                    <img src="/images/hero-button-image.png" alt="Play episodes now" />
+                    <img src="/images/hero-button-image-2.png" alt="Play episodes now" />
                 </a>
             </div>
         </div>
