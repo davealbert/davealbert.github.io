@@ -653,27 +653,56 @@ body {
     clear: both;
 }
 
-.hero {
-    background: url("/images/podcastbg.png") no-repeat bottom;
-    background-size: cover;
-    min-height: 45em;
-}
-.hero-text {
-    color: #ffffff;
-    padding: 10% 0;
-    margin-left: 70px;
-    position: relative;
-    font-family: 'Roboto', sans-serif;
+.hero-wrapper {
+    .hero {
+        background: url("/images/podcastbg.png") no-repeat bottom;
+        background-size: cover;
+        min-height: 45em;
+    }
+
+    .hero-text {
+        color: #ffffff;
+        padding: 10% 0;
+        margin-left: 70px;
+        position: relative;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .hero-text .hero-title H1 {
+        font-size: 3em;
+        font-weight: bold;
+    }
+
+    .hero-text .hero-subtitle H2 {
+        font-size: 2em;
+        font-weight: bold;
+    }
 }
 
-.hero-text .hero-title H1 {
-    font-size: 3em;
-    font-weight: bold;
-}
+.hero-wrapper.stage2{
+    .hero {
+        background: url("/images/Daveslider2.jpg") no-repeat top;
+        background-size: cover;
+        min-height: 45em;
+    }
 
-.hero-text .hero-subtitle H2 {
-    font-size: 2em;
-    font-weight: bold;
+    .hero-text {
+        color: #4d4d4d;
+        padding: 10% 0;
+        margin-left: 70px;
+        position: relative;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .hero-text .hero-title H1 {
+        font-size: 3em;
+        font-weight: bold;
+    }
+
+    .hero-text .hero-subtitle H2 {
+        font-size: 2em;
+        font-weight: bold;
+    }
 }
 
 .img-max400 {

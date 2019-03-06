@@ -42,6 +42,10 @@ showcount: true
     </div>
 
 </div>
+<div style="display:none;">
+    <img src="/images/podcastbg.png" />
+    <img src="/images/Daveslider2.jpg" />
+</div>
 
 <!--Hi, I'm Dave Albert the CTO of [Medit](https://medit.online) and the host of [CTO and Co-Founder Talk with Dave Albert](/cto-and-co-founder-talk-with-dave-albert)-->
 

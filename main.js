@@ -40,3 +40,19 @@ $(() => {
     });
 });
 
+var heroStyle2 = true;
+function heroFade() {
+    div = $('.hero-wrapper');
+    div.fadeOut(() => {
+
+        if (heroStyle2) {
+            div.removeClass('stage2');
+        } else {
+            div.addClass('stage2');
+        }
+        div.fadeIn();});
+    heroStyle2 = !heroStyle2;
+}
+if ($('.hero-wrapper')) {
+    setInterval(heroFade, 6000);
+}
