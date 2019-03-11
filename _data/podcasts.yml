@@ -1,3 +1,14 @@
+ - title: "Guest Joe Morgan"
+   subtitle: "I am joined by Joe Morgan a UI Developer, Speaker, Author, JavaScript enthusiast"
+   summary: "Joe Morgan is Founder and CoOrganizer of the Kansas City React Meetup, a UI developer, and the author of 'Simplifying JavaScript' https://pragprog.com/book/es6tips/simplifying-javascript | https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html | https://ponyfoo.com/ | https://twitter.com/joesmorgan | https://www.linkedin.com/in/joe-morgan-42458a15/ "
+   encoded: "Joe Morgan is Founder and CoOrganizer of the Kansas City React Meetup, a UI developer, and the author of 'Simplifying JavaScript' https://pragprog.com/book/es6tips/simplifying-javascript <br /> https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html <br /> https://ponyfoo.com/ <br /> https://twitter.com/joesmorgan <br /> https://www.linkedin.com/in/joe-morgan-42458a15/ <br /> "
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/021-joe-morgan.mp3
+   date: Mon, 11 Mar 2019 04:20:54 GMT
+   duration: "48:14"
+   length: 46314892
+   transcript: "021"
+   image: /images/guests/joe-morgan.jpg
+
  - title: "QT: Jira, and kick-off meetings"
    subtitle: "Better tracking and reducing cycle time"
    summary: "Well Jira has won the battle ... as of now.  And we have found a way to reduce cycle time by having a couple of kick-off meetings."
