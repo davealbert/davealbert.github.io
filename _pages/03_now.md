@@ -18,13 +18,14 @@ hideTitle: true
 Now
 What I’m doing now
 
-(This is a now page, and if you have your own site, you should make one, too.)
+(This is a [now page](https://nownownow.com/), and if you have your own site, you should make one, too.)
 
 
 Im currently working on:
 
+* Taking a few days off to refresh instead of waiting until the end of the year again
 
-* ~~Moving~~ Moved my WordPress blog to [this site](/jekyll/update/2018/03/19/Jekyll-site-now-live/) ... ~~maybe???~~
+* We are almost ready to ship the Adroid version of Medit
 
 * CTO and Co-Founder Podcast
 This is my podcast about building a startup from a first time CTO’s perspective
@@ -36,7 +37,7 @@ We are building a mobile platform for healthcare professionals to quickly access
 * Still living in Co Dublin, Ireland
 
 
-*Last update 19th March 2018*
+*Last update 19th March 2019*
 
 <div>
 {% include disqus.html %}
