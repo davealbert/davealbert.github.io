@@ -1,7 +1,18 @@
+ - title: "Guest Frances Smyth"
+   subtitle: "I am joined by Frances Smyth, Agile Coach, ClaimVantage"
+   summary: "Fran and I have a great discuss on helping a team work in a more agile fashion, and how this has worked in her experiance. https://www.linkedin.com/in/francessmyth/ | https://twitter.com/Fran_Frankly"
+   encoded: "Fran and I have a great discuss on helping a team work in a more agile fashion, and how this has worked in her experiance. https://www.linkedin.com/in/francessmyth/ <br> https://twitter.com/Fran_Frankly"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/027-Frances-Smyth.mp3
+   date: Tue, 09 Apr 2019 04:20:54 GMT
+   duration: "01:03:47"
+   length: 61245504
+   transcript: "027"
+   image: /images/guests/Frances-Smyth.jpg
+
  - title: "Guest Adam Coulon"
    subtitle: "I am joined by Adam Coulon the CTO and Co-founder of WiGo Trips"
    summary: "In this episode I get to talk to Adam about travel, working in a bootstrapped startup, and hear a few amazing perls of wisdom about life in general.  | adam@wigotrips.com | https://www.linkedin.com/in/adam-coulon-a38963135/ | https://twitter.com/FooBarKing"
-   encoded: "In this episode I get to talk to Adam about travel, working in a bootstrapped startup, and hear a few amazing perls of wisdom about life in general.  </ br> adam@wigotrips.com </ br> https://www.linkedin.com/in/adam-coulon-a38963135/ </ br> https://twitter.com/FooBarKing"
+   encoded: "In this episode I get to talk to Adam about travel, working in a bootstrapped startup, and hear a few amazing perls of wisdom about life in general.  <br> adam@wigotrips.com <br> https://www.linkedin.com/in/adam-coulon-a38963135/ <br> https://twitter.com/FooBarKing"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/025-adam-coulon.mp3
    date: Thu, 28 Mar 2019 04:20:54 GMT
    duration: "59:08"
@@ -12,7 +23,7 @@
  - title: "Guest Andrew Mullaney"
    subtitle: "I am joined by Andrew Mullaney the former CTO and Co-founder of NewsWhip"
    summary: "Andrew and I discuss starting NewsWhip, life as a CTO, and his new venture.  https://www.linkedin.com/in/andrew-mullaney-669724a/ | https://twitter.com/andrewmull "
-   encoded: "Andrew and I discuss starting NewsWhip, life as a CTO, and his new venture. </ br>  https://www.linkedin.com/in/andrew-mullaney-669724a/ </br> https://twitter.com/andrewmull "
+   encoded: "Andrew and I discuss starting NewsWhip, life as a CTO, and his new venture. <br>  https://www.linkedin.com/in/andrew-mullaney-669724a/ <br> https://twitter.com/andrewmull "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/024-andrew-mullaney.mp3
    date: Wed, 27 Mar 2019 04:20:54 GMT
    duration: "01:03:44"
@@ -23,7 +34,7 @@
  - title: "Guest Angela Duffy"
    subtitle: "I am joind by Angela Duffy a Venture Investment Leader (VIL) of the NDRC"
    summary: "Angela and I discuss the what's involved in mentoring a startup, some things to do and some things to avoid as a startup to make the journey better.  angela.duffy@ndrc.ie | https://www.linkedin.com/in/angeladuffy1/ | https://twitter.com/_angela_duffy "
-   encoded: "Angela and I discuss the what's involved in mentoring a startup, some things to do and some things to avoid as a startup to make the journey better.  </ br> angela.duffy@ndrc.ie </ br> https://www.linkedin.com/in/angeladuffy1/ </ br> https://twitter.com/_angela_duffy "
+   encoded: "Angela and I discuss the what's involved in mentoring a startup, some things to do and some things to avoid as a startup to make the journey better.  <br> angela.duffy@ndrc.ie <br> https://www.linkedin.com/in/angeladuffy1/ <br> https://twitter.com/_angela_duffy "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/023-angela-duffy.mp3
    date: Mon, 22 Mar 2019 04:20:54 GMT
    duration: "56:59"
@@ -34,7 +45,7 @@
  - title: "Guest Lewis Denham-Parry"
    subtitle: "Lewis Denham-Parry Co-founder of Cloud Native Wales joins me to talk about mental health in technology"
    summary: "Find out the parallels of mental health to monoliths versus microservices! You can find Lewis here: https://twitter.com/denhamparry | https://denhamparry.co.uk/ | https://www.linkedin.com/in/denhamparry/"
-   encoded: "Find out the parallels of mental health to monoliths versus microservices! You can find Lewis here: https://twitter.com/denhamparry <br /> https://denhamparry.co.uk/ <br /> https://www.linkedin.com/in/denhamparry/ "
+   encoded: "Find out the parallels of mental health to monoliths versus microservices! You can find Lewis here: https://twitter.com/denhamparry <br> https://denhamparry.co.uk/ <br> https://www.linkedin.com/in/denhamparry/ "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/022-lewis-denham-parry.mp3
    date: Tue, 12 Mar 2019 04:20:54 GMT
    duration: "54:48"
@@ -45,7 +56,7 @@
  - title: "Guest Joe Morgan"
    subtitle: "I am joined by Joe Morgan a UI Developer, Speaker, Author, JavaScript enthusiast"
    summary: "Joe Morgan is Founder and CoOrganizer of the Kansas City React Meetup, a UI developer, and the author of 'Simplifying JavaScript' https://pragprog.com/book/es6tips/simplifying-javascript | https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html | https://ponyfoo.com/ | https://twitter.com/joesmorgan | https://www.linkedin.com/in/joe-morgan-42458a15/ "
-   encoded: "Joe Morgan is Founder and CoOrganizer of the Kansas City React Meetup, a UI developer, and the author of 'Simplifying JavaScript' https://pragprog.com/book/es6tips/simplifying-javascript <br /> https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html <br /> https://ponyfoo.com/ <br /> https://twitter.com/joesmorgan <br /> https://www.linkedin.com/in/joe-morgan-42458a15/ <br /> "
+   encoded: "Joe Morgan is Founder and CoOrganizer of the Kansas City React Meetup, a UI developer, and the author of 'Simplifying JavaScript' https://pragprog.com/book/es6tips/simplifying-javascript <br> https://slate.com/human-interest/2018/12/against-teaching-kids-to-code-creativity-problem-solving.html <br> https://ponyfoo.com/ <br> https://twitter.com/joesmorgan <br> https://www.linkedin.com/in/joe-morgan-42458a15/ <br> "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/021-joe-morgan.mp3
    date: Mon, 11 Mar 2019 04:20:54 GMT
    duration: "48:14"
@@ -67,7 +78,7 @@
  - title: "Guest Felipe Coelho Kussik "
    subtitle: "Medit's UX/UI Designer and User Advocate"
    summary: "I sat down with Felipe to discuss UX/UI and doing the best for our users. Felipe on Twitter https://twitter.com/seufelipe and on Instagram https://www.instagram.com/seufelipe/"
-   encoded: "I sat down with Felipe to discuss UX/UI and doing the best for our users. <br />Felipe on Twitter https://twitter.com/seufelipe and on Instagram https://www.instagram.com/seufelipe/"
+   encoded: "I sat down with Felipe to discuss UX/UI and doing the best for our users. <br>Felipe on Twitter https://twitter.com/seufelipe and on Instagram https://www.instagram.com/seufelipe/"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/020-Felipe-Coelho-Kussik.mp3
    date: Fri, 1 Feb 2019 04:42:54 GMT
    duration: "45:19"
@@ -78,7 +89,7 @@
  - title: "QT: The Bullet Journal"
    subtitle: "The Analog Method for the Digital Age"
    summary: "You need this in your life: https://bulletjournal.com/ this is a life philosophy as much as a note taking technique. I've tried the #BuJo #BulletJournal before, and it didn't take.  This is how it integrated in my life after listenting to the new audio book by Ryder Carroll https://www.audible.co.uk/pd/The-Bullet-Journal-Method-Audiobook/0008261393"
-   encoded: "You need this in your life: https://bulletjournal.com/ this is a life philosophy as much as a note taking technique. <br /> I've tried the #BuJo #BulletJournal before, and it didn't take.<br />  This is how it integrated in my life after listenting to the new audio book by Ryder Carroll https://www.audible.co.uk/pd/The-Bullet-Journal-Method-Audiobook/0008261393"
+   encoded: "You need this in your life: https://bulletjournal.com/ this is a life philosophy as much as a note taking technique. <br> I've tried the #BuJo #BulletJournal before, and it didn't take.<br>  This is how it integrated in my life after listenting to the new audio book by Ryder Carroll https://www.audible.co.uk/pd/The-Bullet-Journal-Method-Audiobook/0008261393"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/QT-009-Bullet-Journal.mp3
    date: Tue, 29 Jan 2019 04:42:54 GMT
    duration: "15:12"
@@ -88,7 +99,7 @@
  - title: "Thoughts from a meetup on Agile Leadership"
    subtitle: "This Quick Take turned into a full episode"
    summary: "I went to a meetup on Leadership and Agile and there were a few slides I found interesting, the more I talked about them the deeper I went.  Some really interesting point on making sure you and your agile team are doing the right things. The event was at: https://www.meetup.com/Dublin-Tech-Talks/events/255963191/ | Max: https://www.linkedin.com/in/maxcottica/ | Helen: https://www.linkedin.com/in/helen-duffy-a49b97a/"
-   encoded: "I went to a meetup on Leadership and Agile and there were a few slides I found interesting, the more I talked about them the deeper I went.  Some really interesting point on making sure you and your agile team are doing the right things. The event was at: https://www.meetup.com/Dublin-Tech-Talks/events/255963191/ <br /> Max: https://www.linkedin.com/in/maxcottica/ <br /> Helen: https://www.linkedin.com/in/helen-duffy-a49b97a/"
+   encoded: "I went to a meetup on Leadership and Agile and there were a few slides I found interesting, the more I talked about them the deeper I went.  Some really interesting point on making sure you and your agile team are doing the right things. The event was at: https://www.meetup.com/Dublin-Tech-Talks/events/255963191/ <br> Max: https://www.linkedin.com/in/maxcottica/ <br> Helen: https://www.linkedin.com/in/helen-duffy-a49b97a/"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/019-Agile-Leadership.mp3
    date: Fri, 25 Jan 2019 04:07:54 GMT
    duration: "26:34"
@@ -98,7 +109,7 @@
  - title: "Guests: Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health"
    subtitle: "Anonymous support for your mental health from your own computer"
    summary: "I sat down with Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health to discuss their services and mental health.  turn2me.org was founded in 2009 stemming from the very personal experiences of brothers Oisin and Diarmuid Scollard, who lost their brother to suicide in 2003. They had a vision to create a web space for people to share, discuss and offload personal problems, find support and get useful information.  Turn2Me provides a 3 tiered approach to supporting mental well-being - Self Help, support groups and Professional Support. Remain anonymous, express yourself and share your experiences without fear of recognition or judgement.  | https://turn2me.org/ | https://www.facebook.com/turn2me | https://twitter.com/turn2me"
-   encoded: "I sat down with Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health to discuss their services and mental health.  turn2me.org was founded in 2009 stemming from the very personal experiences of brothers Oisin and Diarmuid Scollard, who lost their brother to suicide in 2003. They had a vision to create a web space for people to share, discuss and offload personal problems, find support and get useful information.  <br /> Turn2Me provides a 3 tiered approach to supporting mental well-being - Self Help, support groups and Professional Support. Remain anonymous, express yourself and share your experiences without fear of recognition or judgement.  <br /> https://turn2me.org/ <br /> https://www.facebook.com/turn2me <br /> https://twitter.com/turn2me"
+   encoded: "I sat down with Jennifer Griffin and Brian Holohan of Turn2me E-Mental Health to discuss their services and mental health.  turn2me.org was founded in 2009 stemming from the very personal experiences of brothers Oisin and Diarmuid Scollard, who lost their brother to suicide in 2003. They had a vision to create a web space for people to share, discuss and offload personal problems, find support and get useful information.  <br> Turn2Me provides a 3 tiered approach to supporting mental well-being - Self Help, support groups and Professional Support. Remain anonymous, express yourself and share your experiences without fear of recognition or judgement.  <br> https://turn2me.org/ <br> https://www.facebook.com/turn2me <br> https://twitter.com/turn2me"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/018-Turn2me.mp3
    date: Thu, 24 Jan 2019 04:07:54 GMT
    duration: "45:32"
@@ -129,7 +140,7 @@
  - title: "Guest Alan Costell | NDRC Venture Investment Leader (VIL) of Medit and many more startups"
    subtitle: "Alan and I discuss being prepared to apply for an accelerator programme, and many other elements for a startup's success"
    summary: "Alan Costello an NDRC Venture Investment Leader (VIL) of Medit and many more startups and I discuss being prepared to apply for an accelerator programme, and many other elements for a startup's success | https://www.linkedin.com/in/alanjcostello/ | https://twitter.com/alanjcostello | https://www.ndrc.ie/ |https://twitter.com/ndrc_hq "
-   encoded: "Alan Costello an NDRC Venture Investment Leader (VIL) of Medit and many more startups and I discuss being prepared to apply for an accelerator programme, and many other elements for a startup's success <br /> https://www.linkedin.com/in/alanjcostello/ <br /> https://twitter.com/alanjcostello <br /> https://www.ndrc.ie/ <br />https://twitter.com/ndrc_hq "
+   encoded: "Alan Costello an NDRC Venture Investment Leader (VIL) of Medit and many more startups and I discuss being prepared to apply for an accelerator programme, and many other elements for a startup's success <br> https://www.linkedin.com/in/alanjcostello/ <br> https://twitter.com/alanjcostello <br> https://www.ndrc.ie/ <br>https://twitter.com/ndrc_hq "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/015-Alan-Costello.mp3
    date: Mon, 3 Dec 2018 04:30:54 GMT
    duration: "1:00:58"
@@ -160,7 +171,7 @@
  - title: "Guest Will Youmans | No CTO, no problem ... sort of"
    subtitle: "Starting a tech product before you have a CTO and the transition using an interm CTOs"
    summary: "Will Youmans founder of Forefront Software and CTO Sumo and I discuss how he helps founders without a CTO transition to having one with his new private Beta service CTO Sumo | https://twitter.com/wyoumansdev | https://www.linkedin.com/in/williamyoumans/ | https://www.forefrontsoftware.com/ | https://www.ctosumo.com/ "
-   encoded: "Will Youmans founder of Forefront Software and CTO Sumo and I discuss how he helps founders without a CTO transition to having one with his new private Beta service CTO Sumo <br /> https://twitter.com/wyoumansdev <br /> https://www.linkedin.com/in/williamyoumans/ <br /> https://www.forefrontsoftware.com/ <br /> https://www.ctosumo.com/ "
+   encoded: "Will Youmans founder of Forefront Software and CTO Sumo and I discuss how he helps founders without a CTO transition to having one with his new private Beta service CTO Sumo <br> https://twitter.com/wyoumansdev <br> https://www.linkedin.com/in/williamyoumans/ <br> https://www.forefrontsoftware.com/ <br> https://www.ctosumo.com/ "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/014-Will-Youmans-auphonic.mp3
    date: Mon, 30 Nov 2018 04:30:54 GMT
    duration: 46:37
@@ -171,7 +182,7 @@
  - title: "Guest Dave Denham | Agile, Lean, Scrum, Kanban"
    subtitle: "What is a conference MVP?"
    summary: "Dave Denham and I discuss building software using Agile, Lean, Scrum, and the Agile Lean Ireland conference | https://twitter.com/cobrakaiagile | https://www.linkedin.com/in/ddenham/ | https://www.agileleanireland.org/ | https://twitter.com/AgileLeanIrl"
-   encoded: "Dave Denham and I discuss building software using Agile, Lean, Scrum, and the Agile Lean Ireland conference <br /> <br />https://twitter.com/cobrakaiagile <br />https://www.linkedin.com/in/ddenham/ <br />https://www.agileleanireland.org/ <br />https://twitter.com/AgileLeanIrl"
+   encoded: "Dave Denham and I discuss building software using Agile, Lean, Scrum, and the Agile Lean Ireland conference <br> <br>https://twitter.com/cobrakaiagile <br>https://www.linkedin.com/in/ddenham/ <br>https://www.agileleanireland.org/ <br>https://twitter.com/AgileLeanIrl"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/013-Dave-Denham.mp3
    date: Mon, 24 Nov 2018 04:30:54 GMT
    duration: 1:06:26
@@ -181,8 +192,8 @@
 
  - title: "Guest Ed Burke | Starting up without a CTO"
    subtitle: "Starting without a CTO and using Facebook groups to validate a startup idea"
-   summary: "Ed Burke of CEO and founder of RooMigo and I discuss starting up without a CTO, and using Facebook groups to validate a startup idea. | </br /> ed@roomigo.io | https://roomigo.io/ | https://www.linkedin.com/in/ed-burke/ | https://www.linkedin.com/company/roomigo/ | https://twitter.com/BurkeyEd | https://twitter.com/roomigohq"
-   encoded: "Ed Burke of CEO and founder of RooMigo and I discuss starting up without a CTO, and using Facebook groups to validate a startup idea. <br /></br /> ed@roomigo.io <br />https://roomigo.io/ <br />https://www.linkedin.com/in/ed-burke/ <br />https://www.linkedin.com/company/roomigo/ <br /> <br />https://twitter.com/BurkeyEd <br />https://twitter.com/roomigohq"
+   summary: "Ed Burke of CEO and founder of RooMigo and I discuss starting up without a CTO, and using Facebook groups to validate a startup idea. | <br> ed@roomigo.io | https://roomigo.io/ | https://www.linkedin.com/in/ed-burke/ | https://www.linkedin.com/company/roomigo/ | https://twitter.com/BurkeyEd | https://twitter.com/roomigohq"
+   encoded: "Ed Burke of CEO and founder of RooMigo and I discuss starting up without a CTO, and using Facebook groups to validate a startup idea. <br><br> ed@roomigo.io <br>https://roomigo.io/ <br>https://www.linkedin.com/in/ed-burke/ <br>https://www.linkedin.com/company/roomigo/ <br> <br>https://twitter.com/BurkeyEd <br>https://twitter.com/roomigohq"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/012-Ed-Burke.mp3
    date: Sun, 24 Nov 2018 04:30:54 GMT
    duration: 41:12
@@ -193,7 +204,7 @@
  - title: "Guest Jake Cahill | Web Scrapping Automation Bots and AI"
    subtitle: "Is web scrapping ethical, how can it go wrong?"
    summary: "Jake and I discuss technology using in web scrapping and scrapping prevention using AI/ML | https://twitter.com/tech_ccs | https://www.linkedin.com/in/jake-cahill-maine/ | https://www.ccstechme.com/ | https://dev.to/kaelscion"
-   encoded: "Jake and I discuss technology using in web scrapping and scrapping prevention using AI/ML <br /> https://twitter.com/tech_ccs <br /> https://www.linkedin.com/in/jake-cahill-maine/ <br /> https://www.ccstechme.com/ <br /> https://dev.to/kaelscion"
+   encoded: "Jake and I discuss technology using in web scrapping and scrapping prevention using AI/ML <br> https://twitter.com/tech_ccs <br> https://www.linkedin.com/in/jake-cahill-maine/ <br> https://www.ccstechme.com/ <br> https://dev.to/kaelscion"
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/011-Jake-Cahill.mp3
    date: Thu, 23 Nov 2018 04:30:54 GMT
    duration: 51:24
@@ -214,7 +225,7 @@
  - title: "Guest Dermot Casey | NDRC, Startups, Accelerator Programmes"
    subtitle: "Dermot Casey and I discussing the NDRC, startups and accelerator programmes"
    summary: "Dermot sources startup investment opportunities and with cash and acceleration mentor them through to securing early customers and follow-on investment.  You can find Dermot on LinkedIn at https://www.linkedin.com/in/dermotcasey/ "
-   encoded: "Dermot sources startup investment opportunities and with cash and acceleration mentor them through to securing early customers and follow-on investment.  <br/> <br/> You can find Dermot on LinkedIn at https://www.linkedin.com/in/dermotcasey/ "
+   encoded: "Dermot sources startup investment opportunities and with cash and acceleration mentor them through to securing early customers and follow-on investment.  <br> <br> You can find Dermot on LinkedIn at https://www.linkedin.com/in/dermotcasey/ "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/009-Dermot-Casey.mp3
    date: Wed, 21 Nov 2018 04:30:54 GMT
    duration: 46:47
@@ -225,7 +236,7 @@
  - title: "Guest Rob Healy | Agile/Lean Startups"
    subtitle: "Rob Healy and I discussing agile and lean in startups."
    summary: "I sat down with Rob Healy of Ammeon who is a co-organizer of the Agile-Lean Ireland group.  We discussed how startups and other orginisations can use Agile and Lean to do more faster.  A bit about Rob Rob is a principal consultant with Ammeon where he provides agile and lean training, coaching and consulting services to startups, SMEs and enterprise clients. A qualified mechanical engineer and MBA, he has worked to develop and improve products and services for the nuclear industry, formula one teams, telcos and antivirus companies.In his spare time, he organises the Agile-Lean Ireland Meetup group that hosts technology meetups for Scrum Masters and Agile and Lean Coaches once a month.  About Ammeon Ammeon is an Irish owned Training, Consulting and IT Professional Services company. From Understanding the Fundamentals of Agile-Lean, to Operating IT Software in Production, our training services are designed to improve and fast-track your organisation's journey. We can custom-designed our courses to meet our client's specific needs and provide coaching assistance to help them integrate new processes and technologies into their working environment. Ammeon is listed on Enterprise Ireland's Lean Service Providers list and also on their Lean Education Directory."
-   encoded: "I sat down with Rob Healy of Ammeon who is a co-organizer of the Agile-Lean Ireland group.  We discussed how startups and other orginisations can use Agile and Lean to do more faster.  <br /> A bit about Rob <br /> Rob is a principal consultant with Ammeon where he provides agile and lean training, coaching and consulting services to startups, SMEs and enterprise clients. A qualified mechanical engineer and MBA, he has worked to develop and improve products and services for the nuclear industry, formula one teams, telcos and antivirus companies.In his spare time, he organises the Agile-Lean Ireland Meetup group that hosts technology meetups for Scrum Masters and Agile and Lean Coaches once a month.  <br /> About Ammeon <br /> Ammeon is an Irish owned Training, Consulting and IT Professional Services company. From Understanding the Fundamentals of Agile-Lean, to Operating IT Software in Production, our training services are designed to improve and fast-track your organisation's journey. We can custom-designed our courses to meet our client's specific needs and provide coaching assistance to help them integrate new processes and technologies into their working environment. Ammeon is listed on Enterprise Ireland's Lean Service Providers list and also on their Lean Education Directory.  "
+   encoded: "I sat down with Rob Healy of Ammeon who is a co-organizer of the Agile-Lean Ireland group.  We discussed how startups and other orginisations can use Agile and Lean to do more faster.  <br> A bit about Rob <br> Rob is a principal consultant with Ammeon where he provides agile and lean training, coaching and consulting services to startups, SMEs and enterprise clients. A qualified mechanical engineer and MBA, he has worked to develop and improve products and services for the nuclear industry, formula one teams, telcos and antivirus companies.In his spare time, he organises the Agile-Lean Ireland Meetup group that hosts technology meetups for Scrum Masters and Agile and Lean Coaches once a month.  <br> About Ammeon <br> Ammeon is an Irish owned Training, Consulting and IT Professional Services company. From Understanding the Fundamentals of Agile-Lean, to Operating IT Software in Production, our training services are designed to improve and fast-track your organisation's journey. We can custom-designed our courses to meet our client's specific needs and provide coaching assistance to help them integrate new processes and technologies into their working environment. Ammeon is listed on Enterprise Ireland's Lean Service Providers list and also on their Lean Education Directory.  "
    mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/007-Rob-Healy.mp3
    date: Tue, 20 Nov 2018 04:30:54 GMT
    duration: 50:52
