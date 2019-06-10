@@ -1,4 +1,8 @@
 $(() => {
+    if (location.hostname !== '127.0.0.1' && location.protocol != 'https:') {
+        location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
+    }
+
     $.ajax('https://9u0gb30id0.execute-api.eu-west-1.amazonaws.com/Prod/counter?site=davealberttext')
     .done((res) => {
         console.log(res);
