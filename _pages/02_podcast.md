@@ -64,7 +64,7 @@ contentFullWidth: true
                     </div>
 
                     <div class="summary">
-                        {{ episode.summary }}
+                        {{ episode.encoded }}
                     </div>
 
                     <div class="more">
