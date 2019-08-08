@@ -232,6 +232,16 @@ a.link-text, a:visited.link-text {
     border: 1px #b0aaaa solid;
 }
 
+.linkify {
+    a, a:link, a:visited, a:hover, a:active {
+        color: #2DCCBC;
+    }
+}
+
+.center {
+    text-align: center;
+}
+
 .a-page {
     margin: 4em;
 }

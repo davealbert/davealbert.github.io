@@ -1,61 +1,80 @@
 ---
 layout: page
+hideTitle: true
+contentFullWidth: true
 ---
 
 <div>
-    <h2>
-        {{ page.subtitle }}
-    </h2>
-    {% if page.image %}
-        <div>
+    <div class="episodes-container" style="padding: 5em 1em;">
+        <div class="center">
             <p>
-            <img src="{{ page.image }}" alt="{{ page.subtitle }}" style="height: 150px;"/>
+                <h1>
+                    {{ page.title }}
+                </h1>
             </p>
-        </div>
-    {% endif %}
-
-    <div class="linkify">
-    {{ page.label }}
-    </div>
-
-    <br /><br />
-
-    <div class="podcast-episode">
-        <i>{{ page.date }}</i><br />
-        <i>duration: {{ page.duration }}</i>
-        <audio src="https://dts.podtrac.com/redirect.mp3/{{ page.source }}" controls="controls" preload="none">
-            Your browser does not support the audio element.
-        </audio>
-    </div>
-
-
-    <a href="https://open.spotify.com/show/4J0VmigjL5H5kXqDYQENcF?si=vH63eQ2kRCWAVi5TGuBk_g" target="_blank">Spotify</a> <b>|</b>
-    <a href="https://itunes.apple.com/us/podcast/cto-and-co-founder-talk-with-dave-albert/id1247392672" target="_blank">iTunes</a> <b>|</b>
-    <a href="https://www.stitcher.com/podcast/dave-albert-3/cto-and-cofounder-talk-with-dave-albert" target="_blank">Sticher</a> <b>|</b>
-    <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I5xrkrvr34yc3b7zbcc7hysdm4y?t%3DCTO_and_Co-Founder_Talk_with_Dave_Albert%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" target="_blank">Google Play</a> <b>|</b>
-    <a href="https://player.fm/series/cto-and-co-founder-talk-with-dave-albert" target="_blank">Player.fm</a> <b>|</b>
-    <a href="https://mytuner-radio.com/podcasts/cto-and-co-founder-talk-with-dave-albert-dave-albert-1247392672" target="_blank">MyTuner Radio</a>
-
-    &nbsp;
-
-    <div>
-        <h3>
-            Transcript:
-        </h3>
-    </div>
-</div>
-
-{{ content }}
-
-<div>
-
-    <div>
-        <div class="mailchimp-form-container">
-        {% include partial-mailchimp-form.html %}
+            <p>
+                <h2>
+                    {{ page.subtitle }}
+                </h2>
+            </p>
+            <p>&nbsp;</p>
+            <div class="podcast-episode">
+                <!--<i>duration: {{ page.duration }}</i>-->
+                <audio src="https://dts.podtrac.com/redirect.mp3/{{ page.source }}" controls="controls" preload="none">
+                    Your browser does not support the audio element.
+                </audio>
+            </div>
+            <i>{{ page.date }}</i>
+            <p>&nbsp;</p>
         </div>
     </div>
+    <div class="a-page">
+        <div class="linkify">
+        {{ page.label }}
+        </div>
 
-    <div>
-        {% include disqus.html %}
+        <p>&nbsp;</p>
+        {% if page.image %}
+            <div>
+                <p>
+                <img src="{{ page.image }}" alt="{{ page.subtitle }}" style="height: 400px;"/>
+                </p>
+            </div>
+        {% endif %}
+
+
+        <p>&nbsp;</p>
+
+
+
+        <a href="https://open.spotify.com/show/4J0VmigjL5H5kXqDYQENcF?si=vH63eQ2kRCWAVi5TGuBk_g" target="_blank">Spotify</a> <b>|</b>
+        <a href="https://itunes.apple.com/us/podcast/cto-and-co-founder-talk-with-dave-albert/id1247392672" target="_blank">iTunes</a> <b>|</b>
+        <a href="https://www.stitcher.com/podcast/dave-albert-3/cto-and-cofounder-talk-with-dave-albert" target="_blank">Sticher</a> <b>|</b>
+        <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/I5xrkrvr34yc3b7zbcc7hysdm4y?t%3DCTO_and_Co-Founder_Talk_with_Dave_Albert%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" target="_blank">Google Play</a> <b>|</b>
+        <a href="https://player.fm/series/cto-and-co-founder-talk-with-dave-albert" target="_blank">Player.fm</a> <b>|</b>
+        <a href="https://mytuner-radio.com/podcasts/cto-and-co-founder-talk-with-dave-albert-dave-albert-1247392672" target="_blank">MyTuner Radio</a>
+
+        <p>&nbsp;</p>
+
+        <div>
+            <h3 style=" font-family: Roboto; font-style: normal; font-weight: normal; font-size: 30px; line-height: 35px; letter-spacing: 0.08em; color: #2DCCBC; ">
+                Transcript:
+            </h3>
+        </div>
+
+        {{ content }}
+
+        <div>
+
+            <div>
+                <div class="mailchimp-form-container">
+                {% include partial-mailchimp-form.html %}
+                </div>
+            </div>
+
+            <div>
+                {% include disqus.html %}
+            </div>
+        </div>
     </div>
 </div>
