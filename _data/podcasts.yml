@@ -1,3 +1,47 @@
+ #- title: ""
+   #subtitle: ""
+   #summary: ""
+   #encoded: ""
+   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/041-devon-campbell.mp3
+   #date: Tue, 03 Sep 2019 04:20:54 GMT
+   #duration: "00:39:55"
+   #length: 19161774
+   #transcript: "041"
+   #image: /images/guests/
+
+ #- title: ""
+   #subtitle: ""
+   #summary: ""
+   #encoded: ""
+   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/040-viral-ideas.mp3
+   #date: Tue, 27 Aug 2019 04:20:54 GMT
+   #duration: "00:39:55"
+   #length: 19161774
+   #transcript: "040"
+   #image: /images/guests/
+
+ #- title: ""
+   #subtitle: ""
+   #summary: ""
+   #encoded: ""
+   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/039-Ryan-Hopkins.mp3
+   #date: Tue, 20 Aug 2019 04:20:54 GMT
+   #duration: "00:39:55"
+   #length: 19161774
+   #transcript: "039"
+   #image: /images/guests/
+
+ - title: "Making Ireland better for startups"
+   subtitle: "Guest Andy O'Connor Programme Manager for Startup Ireland and CEO and Founder of Zappaz"
+   summary: "Andy talks to us about his work with Startup Ireland as well as the journey to product market fit with Zappaz.  | https://twitter.com/StartupIreland | https://zappaz.com/ | https://www.linkedin.com/in/andy-o-connor/ "
+   encoded: " Andy talks to us about his work with Startup Ireland as well as the journey to product market fit with Zappaz.  <br> <br> <a href='https://twitter.com/StartupIreland'>https://twitter.com/StartupIreland</a> <br> <a href='https://zappaz.com/'>https://zappaz.com/</a> <br> <a href='https://www.linkedin.com/in/andy-o-connor/ '>https://www.linkedin.com/in/andy-o-connor/ </a> "
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/038-Andy-OConnor.mp3
+   date: Tue, 13 Aug 2019 04:20:54 GMT
+   duration: "00:59:34"
+   length: 28839619
+   transcript: "038"
+   image: /images/guests/Andy-OConnor.png
+
  - title: "What's up Felipe? Social media reduction"
    subtitle: "New episode asking Felipe Coelho Kussik What's up?"
    summary: "Felipe joins us to talk about what's on his mind.  This week it's social media and reducing the one's addiction to the dopamine hits. | https://twitter.com/seufelipe | https://www.instagram.com/seufelipe/ | https://letterboxd.com/seufelipe/"
