@@ -13,7 +13,7 @@ show: false
 
 Hey folks! This is Dave Albert for a quick take. Hello friends, in this episode I'm going to talk to you about slack versus Trello.
 
-What? Theie different tools, yes they are. They also should be used as different tools. Alright, so what do I mean by that in the past I've talked about how process is hard.
+What? They're different tools, yes they are. They also should be used as different tools. Alright, so what do I mean by that in the past I've talked about how process is hard.
 No, I take that back good process is hard changing process is easy, a process forming through habit is easy, having it be right for you and your team that's bloody hard and we haven't found it yet.
 
 I'm very focused on trying to make that work not, because I like overhead … It's actually the opposite of that, I hate overhead I want the process to get the hell out of my way. Now how do we do that? Not great, do make sure that I'm constantly asking all of us what we could do better, what could we stop doing, what could we do differently that may help. What are we doing that is absolutely wrong, what's causing problems, what's giving us stress, what's making it hard to focus on the work that we need to do.
