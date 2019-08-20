@@ -20,16 +20,16 @@
    #transcript: "040"
    #image: /images/guests/
 
- #- title: ""
-   #subtitle: ""
-   #summary: ""
-   #encoded: ""
-   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/039-Ryan-Hopkins.mp3
-   #date: Tue, 20 Aug 2019 04:20:54 GMT
-   #duration: "00:39:55"
-   #length: 19161774
-   #transcript: "039"
-   #image: /images/guests/
+ - title: "After starting a company sometimes you must re-evaluate your positioning/offerings!"
+   subtitle: "Guest Ryan Hopkins tells us about starting Trigger Media and his first foray into entrepreneurship"
+   summary: "Guest Ryan Hopkins tells us about starting Trigger Media and his first foray into entrepreneurship. Trigger Media is a full-service digital agency based in Dublin that specialises in technology, marketing and creative. | https://triggermedia.ie/ | https://www.linkedin.com/in/hopkinsryan/ | https://twitter.com/ryanhopkins10 | https://twitter.com/triggermedia_ie"
+   encoded: "Guest Ryan Hopkins tells us about starting Trigger Media and his first foray into entrepreneurship. Trigger Media is a full-service digital agency based in Dublin that specialises in technology, marketing and creative.  <br><br> <a href='https://triggermedia.ie/' target='_blank'>https://triggermedia.ie/</a> <br> <a href='https://www.linkedin.com/in/hopkinsryan/' target='_blank'>https://www.linkedin.com/in/hopkinsryan/</a> <br> <a href='https://twitter.com/ryanhopkins10' target='_blank'>https://twitter.com/ryanhopkins10</a> <br> <a href='https://twitter.com/triggermedia_ie' target='_blank'>https://twitter.com/triggermedia_ie</a>"
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/039-Ryan-Hopkins.mp3
+   date: Tue, 20 Aug 2019 04:20:54 GMT
+   duration: "01:08:36"
+   length: 32933320
+   transcript: "039"
+   image: /images/guests/Ryan-Hopkins.png
 
  - title: "Making Ireland better for startups"
    subtitle: "Guest Andy O'Connor Programme Manager for Startup Ireland and CEO and Founder of Zappaz"
