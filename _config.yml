@@ -23,46 +23,52 @@ twitter_username: dave_albert
 github_username:  davealbert
 instagram_base: https://api.instagram.com/oembed/?url=http://instagr.am/p/
 instagram_items:
+    - B1nqTYSgfLt
+    - B1dXJS-gjK9
+    - B1b-sTdnymp
+    - B1YNjjxAKg_
+    - B1GMAOKAy3O
+    - B1DnMKfA-CD
     - B00SUBIAPzJ
     - B0nSbowgDgq
     - B0iI1DOgPzG
     - B0fkEBEgNZo
     - B0Rc5n3l-0i
     - B0QHRmMAgMz
-    - B0AqhXVg9jO
-    - Bz-FvHxAQYs
-    - BzupB3ag5jG
-    - BzsFmkBArXB
-    - BzaJitjA75o
-    - BzXdx4aARXS
-    - BzKl16HgIEe
-    - By7JEJyAz2_
-    - By4kO6GAHz1
-    - By1_eWSjbff
-    - BypHg96Ahfm
-    - Byo11-Qi4Yp
-    - ByjsQAFC3YY
-    - ByhZFHDgEqU
-    - ByXF_h1hBi6
-    - ByR8U5xAycq
-    - ByPXmiKguRD
-    - ByHpNaPFNK4
-    - ByFEYcljXro
-    - ByCfjW7jeQB
-    - Bx_6z15FQk_
-    - Bx9V9UVAWba
-    - Bx1nmWCglo3
-    - BxzCxSElbuI
-    - BxweCJSHzR8
-    - Bxt5Lp4jq37
-    - BxrUdOMhGuw
-    - BxjmDScgRnr
-    - BxhBQ_rlADY
-    - Bxb3oV7DsI6
-    - BxO_pUqjkvk
-    - BxJ2ILzFuYI
-    - BxHE-T0lWuH
-    - Bw8xHExgy6m
+    #- B0AqhXVg9jO
+    #- Bz-FvHxAQYs
+    #- BzupB3ag5jG
+    #- BzsFmkBArXB
+    #- BzaJitjA75o
+    #- BzXdx4aARXS
+    #- BzKl16HgIEe
+    #- By7JEJyAz2_
+    #- By4kO6GAHz1
+    #- By1_eWSjbff
+    #- BypHg96Ahfm
+    #- Byo11-Qi4Yp
+    #- ByjsQAFC3YY
+    #- ByhZFHDgEqU
+    #- ByXF_h1hBi6
+    #- ByR8U5xAycq
+    #- ByPXmiKguRD
+    #- ByHpNaPFNK4
+    #- ByFEYcljXro
+    #- ByCfjW7jeQB
+    #- Bx_6z15FQk_
+    #- Bx9V9UVAWba
+    #- Bx1nmWCglo3
+    #- BxzCxSElbuI
+    #- BxweCJSHzR8
+    #- Bxt5Lp4jq37
+    #- BxrUdOMhGuw
+    #- BxjmDScgRnr
+#    - BxhBQ_rlADY
+#    - Bxb3oV7DsI6
+#    - BxO_pUqjkvk
+#    - BxJ2ILzFuYI
+#    - BxHE-T0lWuH
+#    - Bw8xHExgy6m
 #    - BtAvDPKATNk
 #    - Bsm_JW1ATZQ
 #    - BsiCqVZD5-h
