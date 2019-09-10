@@ -9,16 +9,16 @@
    #transcript: "041"
    #image: /images/guests/Devon-Campbell.png
    #
- #- title: ""
-   #subtitle: ""
-   #summary: ""
-   #encoded: ""
-   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/043-Chris-Hardie.mp3
-   #date: Tue, 10 Sep 2019 04:20:54 GMT
-   #duration: "00:55:59"
-   #length: 42412392
-   #transcript: "041"
-   #image: /images/guests/Chris-Hardie.jpg
+ - title: "Chris Hardie a Senior Software Engineer at Automattic (wordpress.com)"
+   subtitle: "From entrepreneur to engineer Automattic"
+   summary: "Guest Chris Hardie tells us about his very interesting journey he was an entrepreneur for over 16 years, is now working on Special Projects at Automattic makers of wordpress.com. Hear about what it was like starting his company, many of the things he learned along the way and his transition to working for a great company.  | https://twitter.com/ChrisHardie | https://chrishardie.com/ | https://www.linkedin.com/in/chrishardie/ "
+   encoded: "Guest Chris Hardie tells us about his very interesting journey he was an entrepreneur for over 16 years, is now working on Special Projects at Automattic makers of wordpress.com. Hear about what it was like starting his company, many of the things he learned along the way and his transition to working for a great company.  <br> <br> <a href='https://twitter.com/ChrisHardie'>https://twitter.com/ChrisHardie</a> <br> <a href='https://chrishardie.com/'>https://chrishardie.com/</a> <br> <a href='https://www.linkedin.com/in/chrishardie/'>https://www.linkedin.com/in/chrishardie/</a> "
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/043-Chris-Hardie.mp3
+   date: Tue, 10 Sep 2019 04:20:54 GMT
+   duration: "00:55:59"
+   length: 42412392
+   transcript: "043"
+   image: /images/guests/Chris-Hardie.jpg
 
  - title: "Interested in shifting into a career as a Web Developer/freelancer? Raddevon is a resource for you."
    subtitle: "Devon Campbell created Raddevon and is a Web Developer"
