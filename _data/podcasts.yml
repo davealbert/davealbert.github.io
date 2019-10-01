@@ -9,17 +9,15 @@
    #transcript: "041"
    #image: /images/guests/Devon-Campbell.png
    #
- #- title: ""
-   #subtitle: ""
-   #summary: ""
-   #encoded: ""
-   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/041-devon-campbell.mp3
-   #date: Tue, 03 Sep 2019 04:20:54 GMT
-   #duration: "00:39:55"
-   #length: 19161774
-   #transcript: "041"
-   #image: /images/guests/Devon-Campbell.png
-   #
+ - title: "Vue.js, Azure Serverless Functions, Shaping up"
+   subtitle: "In this solo episode I talk about our web app and changes to our workflow"
+   summary: "In this solo episode I talk about our web app built using views, Azure Serverless Functions, and S3.  I also talk about changes to our workflow based on the Shape Up book by Ryan Singer of Basecamp, you should definitely read the book.  | https://vuejs.org/ | https://azure.microsoft.com/en-us/services/functions/ | https://basecamp.com/shapeup | https://rework.fm/shape-up/ | https://rework.fm/shape-up-roundtable/ "
+   encoded: "In this solo episode I talk about our web app built using views, Azure Serverless Functions, and S3.  I also talk about changes to our workflow based on the Shape Up book by Ryan Singer of Basecamp, you should definitely read the book.  <br><br><a href='https://vuejs.org/' target='_blank'>https://vuejs.org/</a> <br><a href='https://azure.microsoft.com/en-us/services/functions/' target='_blank'>https://azure.microsoft.com/en-us/services/functions/</a> <br><a href='https://basecamp.com/shapeup' target='_blank'>https://basecamp.com/shapeup</a> <br><a href='https://rework.fm/shape-up/' target='_blank'>https://rework.fm/shape-up/</a> <br><a href='https://rework.fm/shape-up-roundtable/' target='_blank'>https://rework.fm/shape-up-roundtable/</a> "
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/046-Dave-Albert-vue-shapeup.mp3
+   date: Tue, 01 Oct 2019 04:20:54 GMT
+   duration: "00:33:23"
+   length: 16028973
+   transcript: "046"
 
  - title: "War stories from Victory CTO's founder John Cunningham"
    subtitle: "They help you do what ever you need to do to get to the next level!"
