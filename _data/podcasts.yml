@@ -9,6 +9,17 @@
    #transcript: "041"
    #image: /images/guests/Devon-Campbell.png
    #
+ #- title: "Laurence Knell"
+   #subtitle: "Laurence Knell"
+   #summary: "Laurence Knell"
+   #encoded: "Laurence Knell"
+   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/047-Laurence-Knell.mp3
+   #date: Tue, 08 Oct 2019 04:20:54 GMT
+   #duration: "00:54:46"
+   #length: 45708946
+   #transcript: "047"
+   #image: /images/guests/Laurence-Knell.png
+
  - title: "Vue.js, Azure Serverless Functions, Shaping up"
    subtitle: "In this solo episode I talk about our web app and changes to our workflow"
    summary: "In this solo episode I talk about our web app built using views, Azure Serverless Functions, and S3.  I also talk about changes to our workflow based on the Shape Up book by Ryan Singer of Basecamp, you should definitely read the book.  | https://vuejs.org/ | https://azure.microsoft.com/en-us/services/functions/ | https://basecamp.com/shapeup | https://rework.fm/shape-up/ | https://rework.fm/shape-up-roundtable/ "
