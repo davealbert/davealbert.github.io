@@ -9,16 +9,16 @@
    #transcript: "041"
    #image: /images/guests/Devon-Campbell.png
    #
- #- title: "Laurence Knell"
-   #subtitle: "Laurence Knell"
-   #summary: "Laurence Knell"
-   #encoded: "Laurence Knell"
-   #mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/047-Laurence-Knell.mp3
-   #date: Tue, 08 Oct 2019 04:20:54 GMT
-   #duration: "00:54:46"
-   #length: 45708946
-   #transcript: "047"
-   #image: /images/guests/Laurence-Knell.png
+ - title: "Failure! Can it be good for you? Guest Laurence Knell"
+   subtitle: "Laurence Knell joins us to talk about failure and how to use it as a tool for growth and improvement."
+   summary: "Guest Laurence Knell, Director at Strategic Innovation Partners and Co-Founder Brain for Business talking to us about his work studying failure.  | | https://www.linkedin.com/in/laurenceknell/ | https://brainforbusiness.ie/ | laurie@strategicinnovation.ie "
+   encoded: "Guest Laurence Knell, Director at Strategic Innovation Partners and Co-Founder Brain for Business talking to us about his work studying failure.  <br> <br><a href='https://www.linkedin.com/in/laurenceknell/' target='_blank'>https://www.linkedin.com/in/laurenceknell/</a> <br><a href='https://brainforbusiness.ie/' target='_blank'>https://brainforbusiness.ie/</a> <br><a href='mailto:laurie@strategicinnovation.ie' target='_blank'>laurie@strategicinnovation.ie</a> "
+   mp3: https://s3-eu-west-1.amazonaws.com/podcast.dave-albert.com/047-Laurence-Knell.mp3
+   date: Tue, 08 Oct 2019 04:20:54 GMT
+   duration: "00:54:46"
+   length: 45708946
+   transcript: "047"
+   image: /images/guests/Laurence-Knell.png
 
  - title: "Vue.js, Azure Serverless Functions, Shaping up"
    subtitle: "In this solo episode I talk about our web app and changes to our workflow"
