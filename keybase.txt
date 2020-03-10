@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/davealbert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dave-albert.com
+  * I am davealbert (https://keybase.io/davealbert) on keybase.
+  * I have a public key ASC-U2fpzuld7FqXj2Br8PhyiMJM87-q9qQGNdzV7X3nHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120189112b0d702a53a75c069c2d1ca99efe9055d8abe6cf4f3b24e8878b07252180a",
+      "host": "keybase.io",
+      "kid": "0120be5367e9cee95dec5a978f606bf0f87288c24cf3bfaaf6a40635dcd5ed7de71c0a",
+      "uid": "28275d70f52f324c168f55df8f008a19",
+      "username": "davealbert"
+    },
+    "merkle_root": {
+      "ctime": 1583849260,
+      "hash": "92dff9a12260d75ad76caf49d34c8fa6cc874c494b2ca27c751c682e1ce6a549987415fcf240e8c83a3c7e605d30c4ccacff5184138e525be4005d628039c9df",
+      "hash_meta": "a006f8998138efc664989d05ca20f1920d8e1ebfee59b2140ff8e58577355f8f",
+      "seqno": 15248100
+    },
+    "service": {
+      "entropy": "XKhqkUFdQWEDOlMzYX4RVNCt",
+      "hostname": "dave-albert.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583849272,
+  "expire_in": 504576000,
+  "prev": "5c20f15edb0a3225f5406cfa729b124baa17c11d2a059bebdfe1f7bff3675a28",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvlNn6c7pXexal49ga/D4cojCTPO/qvakBjXc1e195xwKp3BheWxvYWTESpcCCsQgXCDxXtsKMiX1QGz6cpsSS6oXwR0qBZvr3+H3v/NnWijEICHGLtRq0olddcBNU7NPPDKx324f+aRCVYj6aXOlCDoNAgHCo3NpZ8RAa39WfIaqbNBWXQz3mkC6SwJcXmK9KwJrHlrKLA3tZ3OFYdi0WkenUjf+0grrx2aOh3j/SBM99tnCAQWGU8BoC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPiwc500pGM3LwetYOkjr9AfrGf21LXuDtZ+K1zPsjJNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davealbert
+
+==================================================================
